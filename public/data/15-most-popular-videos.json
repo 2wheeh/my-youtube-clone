@@ -1,0 +1,1774 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "jFqtEXUip422chsA71Vb-8Y2X7U",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "M0KKYf4J9orQbHBSfLkQt715l3M",
+      "id": "E560Hv7lh7Y",
+      "snippet": {
+        "publishedAt": "2023-05-09T09:21:20Z",
+        "channelId": "UClExf-ScXuEUvskktEOz0dA",
+        "title": "100대 1로 싸우는 바다메기와 문어",
+        "description": "바닷속에서 벌어지는 동물들의 싸움 바다메기 쏠종개와 문어의 목숨을 건 싸움의 결과는 과연?\n\n#shorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/E560Hv7lh7Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/E560Hv7lh7Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/E560Hv7lh7Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/E560Hv7lh7Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/E560Hv7lh7Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "동물돋보기",
+        "categoryId": "15",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "100대 1로 싸우는 바다메기와 문어",
+          "description": "바닷속에서 벌어지는 동물들의 싸움 바다메기 쏠종개와 문어의 목숨을 건 싸움의 결과는 과연?\n\n#shorts"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT31S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "6215436",
+        "likeCount": "40993",
+        "favoriteCount": "0",
+        "commentCount": "1645"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "1toc1aDwBRxpx6BrHEIlLpltklM",
+      "id": "v44cKamGzYU",
+      "snippet": {
+        "publishedAt": "2023-05-11T07:00:16Z",
+        "channelId": "UCVoQW5q2Ul5fxcIamVAetOw",
+        "title": "물개를 포획하는 남자",
+        "description": "#쇼츠 #shorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/v44cKamGzYU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/v44cKamGzYU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/v44cKamGzYU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/v44cKamGzYU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/v44cKamGzYU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "김뺑끼",
+        "tags": ["쇼츠"],
+        "categoryId": "15",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "물개를 포획하는 남자",
+          "description": "#쇼츠 #shorts"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT31S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "4242508",
+        "likeCount": "112250",
+        "favoriteCount": "0",
+        "commentCount": "1162"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "_jDwTH1zB0V2IltNR2DDCW8Y2fw",
+      "id": "mTycXbf0NZI",
+      "snippet": {
+        "publishedAt": "2023-05-11T09:43:20Z",
+        "channelId": "UCsYawrVV5k_AbW3o0GXbHGg",
+        "title": "사자는 3초 뒤 벌어질 일을 알지 못했습니다    사자vs코뿔소",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mTycXbf0NZI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mTycXbf0NZI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mTycXbf0NZI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mTycXbf0NZI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mTycXbf0NZI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "밈튜브",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "사자는 3초 뒤 벌어질 일을 알지 못했습니다    사자vs코뿔소",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT14S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1984460",
+        "likeCount": "11619",
+        "favoriteCount": "0",
+        "commentCount": "349"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "0Z8N-BVJM7GyP705848XISLOMBs",
+      "id": "rwikqjggGq8",
+      "snippet": {
+        "publishedAt": "2023-05-10T02:30:31Z",
+        "channelId": "UCio0yqf__Uj4A0A0gxxEIdw",
+        "title": "물가에서 흰 댕댕이에게 발견된 것은? #shorts",
+        "description": "#shorts #댕댕이 \n\n물가에서 놀고 있던 댕댕이\n\n그때 무엇인가 발견하고\n\n깜짝 놀라고 마는데요?\n\n과연 그 뒤 어떤 일이 일어날까요?\n\n✅ 일상에서 일어난 짧은 영상 제보 받고 있습니다\n    ◽ 제보 이메일 : daily_choice@naver.com\n✅ BGM 정보\n    ◽ Gypsy Bill (Instrumental Version)\n    ◽ The builder - Kevin MacLeod\n    ◽ Mourning Dove - Zachariah Hickman\n    ◽Morning Joe - Patiño",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rwikqjggGq8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rwikqjggGq8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rwikqjggGq8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rwikqjggGq8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rwikqjggGq8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "일상선택",
+        "tags": [
+          "엄주임",
+          "같은생각",
+          "세상의 근황",
+          "세근",
+          "세상의 근황 세근",
+          "이촌역",
+          "이촌역 4호선",
+          "엄주임의 같은생각",
+          "록끼리",
+          "이야기",
+          "스토리",
+          "근황",
+          "근황 이야기",
+          "동물이야기",
+          "동물",
+          "세계",
+          "세계 이야기",
+          "일상선택",
+          "감동",
+          "반전",
+          "퀴즈"
+        ],
+        "categoryId": "15",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "물가에서 흰 댕댕이에게 발견된 것은? #shorts",
+          "description": "#shorts #댕댕이 \n\n물가에서 놀고 있던 댕댕이\n\n그때 무엇인가 발견하고\n\n깜짝 놀라고 마는데요?\n\n과연 그 뒤 어떤 일이 일어날까요?\n\n✅ 일상에서 일어난 짧은 영상 제보 받고 있습니다\n    ◽ 제보 이메일 : daily_choice@naver.com\n✅ BGM 정보\n    ◽ Gypsy Bill (Instrumental Version)\n    ◽ The builder - Kevin MacLeod\n    ◽ Mourning Dove - Zachariah Hickman\n    ◽Morning Joe - Patiño"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT22S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2531081",
+        "likeCount": "26984",
+        "favoriteCount": "0",
+        "commentCount": "248"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "LVE2VuJu25RtB1rufyqN4rYKchA",
+      "id": "IlOVYgIUNh8",
+      "snippet": {
+        "publishedAt": "2023-05-14T01:58:40Z",
+        "channelId": "UCETtE0PwVfEr0pGq3J-4xig",
+        "title": "야생곰과의 잊지 못할 추억#shorts",
+        "description": "#animalsshorts #animals #bear #family #picnic #캠핑 #곰 #동물 #소풍",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IlOVYgIUNh8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IlOVYgIUNh8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IlOVYgIUNh8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IlOVYgIUNh8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IlOVYgIUNh8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "논란이슈",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "야생곰과의 잊지 못할 추억#shorts",
+          "description": "#animalsshorts #animals #bear #family #picnic #캠핑 #곰 #동물 #소풍"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT26S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1181425",
+        "likeCount": "21428",
+        "favoriteCount": "0",
+        "commentCount": "980"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "hrEYlAbbwZ6E-EonJiLdFrcs_4U",
+      "id": "RryTIrh9gWU",
+      "snippet": {
+        "publishedAt": "2023-05-10T00:00:18Z",
+        "channelId": "UC2PCyP-r5Lw3eCXHjhSthLA",
+        "title": "상대를 잘못 건드린 동물들[쑈옷]",
+        "description": "#shorts  \n\n\n재밌게 보셨다면 좋아요와 구독 부탁드립니다~!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RryTIrh9gWU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RryTIrh9gWU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RryTIrh9gWU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RryTIrh9gWU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RryTIrh9gWU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "쑈옷",
+        "tags": [
+          "드라마",
+          "한국드라마",
+          "영화리뷰",
+          "영화",
+          "넷플릭스",
+          "웨이브",
+          "웨이브한국드라마",
+          "웨이브한드",
+          "종영드라마",
+          "종영한드",
+          "종영한국드라마",
+          "로맨스",
+          "한국로맨스드라마",
+          "드라마추천",
+          "한국드라마추천",
+          "웨이브드라마추천",
+          "넷플릭스드라마추천",
+          "넷플릭스영화추천",
+          "한드추천",
+          "종영드라마추천",
+          "종영한드추천",
+          "미드추천",
+          "웨이브미드추천",
+          "영화추천",
+          "한국영화추천"
+        ],
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "상대를 잘못 건드린 동물들[쑈옷]",
+          "description": "#shorts  \n\n\n재밌게 보셨다면 좋아요와 구독 부탁드립니다~!"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT28S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1769423",
+        "likeCount": "9300",
+        "favoriteCount": "0",
+        "commentCount": "128"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "hyhoCN26yV64qW9HDCbJmCBQGAA",
+      "id": "4gQ9UBOuyIg",
+      "snippet": {
+        "publishedAt": "2023-05-03T15:00:03Z",
+        "channelId": "UCqz9L6Hq_Hkj7jD4ThEmcew",
+        "title": "Quick and Easy Sheep and Lamb Sorting",
+        "description": "#shorts #asmr #farming #agriculture #video #youtubeshorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4gQ9UBOuyIg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4gQ9UBOuyIg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4gQ9UBOuyIg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4gQ9UBOuyIg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Gareth Wyn Jones",
+        "tags": [
+          "gareth wyn jones",
+          "Quick and Easy Sheep and Lamb Sorting",
+          "sheep",
+          "lambs",
+          "spring ti",
+          "spring time"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Quick and Easy Sheep and Lamb Sorting",
+          "description": "#shorts #asmr #farming #agriculture #video #youtubeshorts"
+        },
+        "defaultAudioLanguage": "en-GB"
+      },
+      "contentDetails": {
+        "duration": "PT38S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "212014183",
+        "likeCount": "4309917",
+        "favoriteCount": "0",
+        "commentCount": "13838"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "C-GWiQTr1VdwnhUrauJ2qPljGc8",
+      "id": "7cxO02MmdR4",
+      "snippet": {
+        "publishedAt": "2023-05-17T07:16:01Z",
+        "channelId": "UCsFfefZ9qfSX0HYpIrz8ooA",
+        "title": "상상도 못한 벨튀범의 정체ㅋㅋㅋ",
+        "description": "#shorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7cxO02MmdR4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7cxO02MmdR4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7cxO02MmdR4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7cxO02MmdR4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7cxO02MmdR4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "알려줄게",
+        "tags": ["shorts", "알려줄게"],
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "상상도 못한 벨튀범의 정체ㅋㅋㅋ",
+          "description": "#shorts"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT41S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "358369",
+        "likeCount": "10242",
+        "favoriteCount": "0",
+        "commentCount": "142"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "WniBZnlTKSBaJX9FQkBvQ1axrlA",
+      "id": "W7TPpYrqmMg",
+      "snippet": {
+        "publishedAt": "2023-05-08T22:00:12Z",
+        "channelId": "UCYYvGvW5PW4Qk0ztkdYg6ZA",
+        "title": "자기 자식 혼내는 주인을 본 어미 개의 행동",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/W7TPpYrqmMg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/W7TPpYrqmMg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/W7TPpYrqmMg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/W7TPpYrqmMg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/W7TPpYrqmMg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "나만 몰랐던 모든 지식들",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "자기 자식 혼내는 주인을 본 어미 개의 행동",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT22S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2926531",
+        "likeCount": "70684",
+        "favoriteCount": "0",
+        "commentCount": "2443"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "bpXNK4faegyyE9TEuHT1_gtmxNI",
+      "id": "3uYhNtQFxJY",
+      "snippet": {
+        "publishedAt": "2023-05-16T09:00:03Z",
+        "channelId": "UCN-j5KoBHNA2MCyfWTsd-oA",
+        "title": "한국에 있는 판다를 돌려보내지 말라는 중국인들",
+        "description": "email - singidoctor@gmail.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3uYhNtQFxJY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3uYhNtQFxJY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3uYhNtQFxJY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3uYhNtQFxJY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3uYhNtQFxJY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "신기박사",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "한국에 있는 판다를 돌려보내지 말라는 중국인들",
+          "description": "email - singidoctor@gmail.com"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT52S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "521990",
+        "likeCount": "16938",
+        "favoriteCount": "0",
+        "commentCount": "849"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "tLZWrl9rzu5lTyRUHQKE83ykL8Y",
+      "id": "O6w53Vb_5-o",
+      "snippet": {
+        "publishedAt": "2023-05-12T02:30:08Z",
+        "channelId": "UCQB2BDd2WA9wtKvIdvXLicA",
+        "title": "등을 보인 남성을 발견하고 사냥을 시작하는 백호",
+        "description": "#shorts #감동영상 #동물영상 #동물구조 #짧은영상 #animal\n\n푸른별 소식을 매일매일 전하는 채널",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/O6w53Vb_5-o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/O6w53Vb_5-o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/O6w53Vb_5-o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/O6w53Vb_5-o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/O6w53Vb_5-o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "푸른별 BlueStar",
+        "tags": [
+          "교육",
+          "동물",
+          "포크포크",
+          "여우볕",
+          "애완동물",
+          "감동",
+          "동기부여",
+          "스브스",
+          "sbs",
+          "mbc",
+          "kbs",
+          "연합뉴스",
+          "비디오머그",
+          "jtbc",
+          "뉴스",
+          "인기동영상",
+          "야생동물",
+          "the dodo",
+          "dodo",
+          "ei dodo",
+          "dog",
+          "cats",
+          "Animals",
+          "Structure",
+          "bluestar",
+          "푸른별"
+        ],
+        "categoryId": "15",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "등을 보인 남성을 발견하고 사냥을 시작하는 백호",
+          "description": "#shorts #감동영상 #동물영상 #동물구조 #짧은영상 #animal\n\n푸른별 소식을 매일매일 전하는 채널"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT26S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "899370",
+        "likeCount": "7241",
+        "favoriteCount": "0",
+        "commentCount": "108"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "XWNl_2jz1p9kTWfFyyatSSZOW00",
+      "id": "Tyz-Szhs6Uo",
+      "snippet": {
+        "publishedAt": "2023-05-13T09:30:09Z",
+        "channelId": "UC5JiEeJKIVPwQl3xEA0nAyg",
+        "title": "악어 반응속도 지렸다ㄷㄷ",
+        "description": "#악어\n바쁜 일상을 살아가는 여러분께 \"1분리뷰\" 를 재미있게 풀어보겠습니다.^^",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Tyz-Szhs6Uo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Tyz-Szhs6Uo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Tyz-Szhs6Uo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Tyz-Szhs6Uo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Tyz-Szhs6Uo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "잇다",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "악어 반응속도 지렸다ㄷㄷ",
+          "description": "#악어\n바쁜 일상을 살아가는 여러분께 \"1분리뷰\" 를 재미있게 풀어보겠습니다.^^"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT37S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "670353",
+        "likeCount": "5870",
+        "favoriteCount": "0",
+        "commentCount": "111"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "zoPpx-uHPxZZWWUNlqWlmNkxhTQ",
+      "id": "tW2kKuXqBhE",
+      "snippet": {
+        "publishedAt": "2023-05-18T07:23:13Z",
+        "channelId": "UC2lkpF35FbIRKCtBP9tc5Fw",
+        "title": "팔려가던 소가 주인에게 보인 '뜻밖의 행동' #shorts",
+        "description": "🎵Music provided by 브금대통령\n🎵Track : 동천성야 - https://youtu.be/WRu6waPIN6Y\n\n#쇼츠 #감동 #동물반응",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tW2kKuXqBhE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tW2kKuXqBhE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tW2kKuXqBhE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tW2kKuXqBhE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tW2kKuXqBhE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "작가빠TV",
+        "tags": [
+          "감동",
+          "감동영상",
+          "동물감동",
+          "동물반응",
+          "동물쇼츠",
+          "감동눈물",
+          "뭉클"
+        ],
+        "categoryId": "15",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "팔려가던 소가 주인에게 보인 '뜻밖의 행동' #shorts",
+          "description": "🎵Music provided by 브금대통령\n🎵Track : 동천성야 - https://youtu.be/WRu6waPIN6Y\n\n#쇼츠 #감동 #동물반응"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT21S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "186538",
+        "likeCount": "8257",
+        "favoriteCount": "0",
+        "commentCount": "459"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "F3DnrJGRY_A2A822NpOKYTEe0ZM",
+      "id": "l_MzXfeqcNs",
+      "snippet": {
+        "publishedAt": "2023-05-09T11:00:29Z",
+        "channelId": "UCdlmHGKsIRuODanePdD-52Q",
+        "title": "자식처럼 키운 하마에게 물려죽은 남자",
+        "description": "#하마 #동물 #야생",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/l_MzXfeqcNs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/l_MzXfeqcNs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/l_MzXfeqcNs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/l_MzXfeqcNs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/l_MzXfeqcNs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "갑꿍이 : 갑자기 궁금한 동물 이야기",
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "자식처럼 키운 하마에게 물려죽은 남자",
+          "description": "#하마 #동물 #야생"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT55S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1833363",
+        "likeCount": "27465",
+        "favoriteCount": "0",
+        "commentCount": "1206"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "lxR__WHqoyk1FrTUEKYQ_bl8bkg",
+      "id": "RUnMB_5HYAc",
+      "snippet": {
+        "publishedAt": "2023-05-06T04:49:43Z",
+        "channelId": "UC0pjHypbNbQwYLrqAYSJZNA",
+        "title": "상어 만났을떄 절대하면 안되는것",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RUnMB_5HYAc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RUnMB_5HYAc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RUnMB_5HYAc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RUnMB_5HYAc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RUnMB_5HYAc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "트릭 혹은 진실",
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "상어 만났을떄 절대하면 안되는것",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT37S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "5058611",
+        "likeCount": "41852",
+        "favoriteCount": "0",
+        "commentCount": "556"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "sC7rl1yhtX0to_lydkFFiIhzh5Q",
+      "id": "12HxaNyMjy4",
+      "snippet": {
+        "publishedAt": "2023-05-09T13:00:02Z",
+        "channelId": "UC9f84VhwZXHDmHzyXmcgjhw",
+        "title": "현실판 타잔 ㅎㄷㄷ",
+        "description": "비즈니스 문의 : 150mgazua@gmail.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/12HxaNyMjy4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/12HxaNyMjy4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/12HxaNyMjy4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/12HxaNyMjy4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/12HxaNyMjy4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "노팅킹",
+        "tags": [
+          "영화",
+          "영화소개",
+          "영화리뷰",
+          "넷플릭스",
+          "Netflix",
+          "한국영화",
+          "한국드라마",
+          "드라마리뷰",
+          "드라마",
+          "애니",
+          "애니리뷰",
+          "리뷰",
+          "웨이브",
+          "Wavve",
+          "티빙",
+          "tving",
+          "왓챠",
+          "watcha",
+          "쿠팡플레이",
+          "coupang play",
+          "미드",
+          "일드",
+          "한드",
+          "옛드",
+          "미국드라마",
+          "킬링타임",
+          "액션",
+          "범죄",
+          "SF",
+          "코미디",
+          "로맨스",
+          "스릴러",
+          "공포",
+          "전쟁",
+          "스포츠",
+          "판타지",
+          "음악",
+          "멜로",
+          "뮤지컬"
+        ],
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "현실판 타잔 ㅎㄷㄷ",
+          "description": "비즈니스 문의 : 150mgazua@gmail.com"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT57S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2334790",
+        "likeCount": "45357",
+        "favoriteCount": "0",
+        "commentCount": "557"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "iEIz0lM0HZK8rQ5XV9fds51MDlU",
+      "id": "C73c8ylRSnQ",
+      "snippet": {
+        "publishedAt": "2023-05-12T11:22:47Z",
+        "channelId": "UCPMU3PoR_NRcCxu0X3Liiiw",
+        "title": "다리달린 건 모두 뼈소리 내는 남자ㅋㅋ",
+        "description": "https://www.tiktok.com/@boneshandsanimals\nhttps://www.youtube.com/@AnimalCrackerDrDougWillen\n\n야우냐? 영상제보: https://www.tiktok.com/@jasonmedia6969\n세상 모든 감동적인 이야기 여기서 발견하세요!\n\n#쇼츠 #shorts #감동 #실화",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/C73c8ylRSnQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/C73c8ylRSnQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/C73c8ylRSnQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/C73c8ylRSnQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/C73c8ylRSnQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "야우냐?",
+        "tags": ["#야우냐?", "#야우냐", "#쇼츠", "#감동"],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "다리달린 건 모두 뼈소리 내는 남자ㅋㅋ",
+          "description": "https://www.tiktok.com/@boneshandsanimals\nhttps://www.youtube.com/@AnimalCrackerDrDougWillen\n\n야우냐? 영상제보: https://www.tiktok.com/@jasonmedia6969\n세상 모든 감동적인 이야기 여기서 발견하세요!\n\n#쇼츠 #shorts #감동 #실화"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT28S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1656677",
+        "likeCount": "57289",
+        "favoriteCount": "0",
+        "commentCount": "613"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "THaCkXdry7jfFhOBhyqtGOFzA4w",
+      "id": "vE-02MnNUSc",
+      "snippet": {
+        "publishedAt": "2023-05-05T17:45:46Z",
+        "channelId": "UCLaWnoNFb8I5CaFxQdO6uzQ",
+        "title": "신종펫샵에 유기된 #그레이트피레니즈에게 일어난 기적같은 이야기",
+        "description": "신종펫샵에 버려진 #그레이트피레니즈에게 일어난 기적같은 이야기",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vE-02MnNUSc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vE-02MnNUSc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vE-02MnNUSc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vE-02MnNUSc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vE-02MnNUSc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "견생역전",
+        "tags": [
+          "리트리버",
+          "도사견",
+          "강아지",
+          "동물구조",
+          "믹스견",
+          "도살장",
+          "입양후기",
+          "골든리트리버",
+          "대형견",
+          "댕댕이",
+          "소형견",
+          "개농장",
+          "번식장",
+          "루비",
+          "국내입양",
+          "브라운엔젤"
+        ],
+        "categoryId": "15",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "신종펫샵에 유기된 #그레이트피레니즈에게 일어난 기적같은 이야기",
+          "description": "신종펫샵에 버려진 #그레이트피레니즈에게 일어난 기적같은 이야기"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT1M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "3159000",
+        "likeCount": "56870",
+        "favoriteCount": "0",
+        "commentCount": "1228"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "9QnxdzVac2zXRi0WHE1-SguawH4",
+      "id": "IsZVE6RODDg",
+      "snippet": {
+        "publishedAt": "2023-05-17T09:30:04Z",
+        "channelId": "UCkbFJNY_fPwr0Ag6n69MPzw",
+        "title": "유기견과 유기묘의 무조건적인 사랑과 우정 #shorts",
+        "description": "유기견과 유기묘의 무조건적인 사랑과 우정 #shorts #youtubeshorts #short \n\n출처:네이버클로바더빙",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IsZVE6RODDg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IsZVE6RODDg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IsZVE6RODDg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IsZVE6RODDg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IsZVE6RODDg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이짠돌",
+        "tags": [
+          "유기견과 유기묘의 무조건적인 사랑과 우정",
+          "유기견",
+          "유기묘",
+          "무조건적인",
+          "사랑과",
+          "우정",
+          "사랑",
+          "유기견 구조",
+          "유기묘 구조",
+          "댕댕이",
+          "반려견",
+          "강아지",
+          "고양이",
+          "냥이",
+          "반려묘",
+          "동물 구조",
+          "동물 구조 영상",
+          "동물",
+          "감동",
+          "감동영상",
+          "이짠돌",
+          "이슈",
+          "화제",
+          "뉴스",
+          "쇼츠",
+          "shorts",
+          "sns",
+          "issues",
+          "news",
+          "dogs",
+          "dog",
+          "dog video",
+          "funny dog videos",
+          "dog videos",
+          "funny dog video",
+          "cat",
+          "funny cat",
+          "funny cats",
+          "cats",
+          "animal",
+          "cute animals",
+          "animals",
+          "animal video",
+          "funny animal videos",
+          "funny animal video",
+          "funny animals",
+          "dog and cat",
+          "abandoned dog",
+          "abandoned dogs",
+          "dog rescue",
+          "animal rescue",
+          "emotional",
+          "emotional video",
+          "try not to cry"
+        ],
+        "categoryId": "15",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "유기견과 유기묘의 무조건적인 사랑과 우정 #shorts",
+          "description": "유기견과 유기묘의 무조건적인 사랑과 우정 #shorts #youtubeshorts #short \n\n출처:네이버클로바더빙"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT29S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "209436",
+        "likeCount": "13937",
+        "favoriteCount": "0",
+        "commentCount": "222"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "jJnxnGott_T_uje15_RQbVwXEtA",
+      "id": "OCaEHkdVe90",
+      "snippet": {
+        "publishedAt": "2023-05-16T07:00:16Z",
+        "channelId": "UCgqka_aEQUnwO-WuVg9kkvA",
+        "title": "이런 캣맘은 괜찮을까  #Shorts",
+        "description": "#Shorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OCaEHkdVe90/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OCaEHkdVe90/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OCaEHkdVe90/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OCaEHkdVe90/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OCaEHkdVe90/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "쭝이모",
+        "tags": ["고양이", "캣맘"],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "이런 캣맘은 괜찮을까  #Shorts",
+          "description": "#Shorts"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT27S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "431427",
+        "likeCount": "11295",
+        "favoriteCount": "0",
+        "commentCount": "753"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "msRtV1YkBk-IkBAObsKFbi0mPQM",
+      "id": "UQw93nLqpNQ",
+      "snippet": {
+        "publishedAt": "2023-05-15T13:00:31Z",
+        "channelId": "UCYZKDmmS5NNIaiD6hlNWh7Q",
+        "title": "Coyote Pup Gets Rescued After Getting Trapped Underground",
+        "description": "Subscribe For More Videos: http://bit.ly/DailyPicksAndFlicksYT\nLike Us On Facebook: https://bit.ly/2TL5eSL\nFollow Us On Twitter: https://bit.ly/3jPKtzG\n\nHave a video you want us to see? Submit it here: https://bit.ly/3jRbqDl\n\nHi and welcome to Daily Picks and Flicks – viral videos, funny pictures and odd news blog. We cover all the funny, interesting and strange stuff that is buzzing around the world. The weirder the better. Each day, we surf the web in an effort to find interesting, entertaining and unique videos, pictures and weird news stories. If you like what you find here, please recommend us to your friends. We already like you.\n\nAll the videos on this channel have been properly acquired from their rightful owners. For licensing / permission to use: Contact - licensing(at)jukinmedia(dot)com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UQw93nLqpNQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UQw93nLqpNQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UQw93nLqpNQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UQw93nLqpNQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "DailyPicksandFlicks",
+        "tags": [
+          "dailypicksandflicks",
+          "daily picks",
+          "daily",
+          "picks",
+          "flicks",
+          "viral video",
+          "viral videos",
+          "viral",
+          "video",
+          "youtube",
+          "youtube video",
+          "youtube videos",
+          "vine",
+          "vines",
+          "popular videos",
+          "best videos",
+          "best",
+          "funny pictures",
+          "odd news",
+          "interesting",
+          "2020",
+          "daily picks and flicks 2020",
+          "jukinmedia",
+          "jukin media"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Coyote Pup Gets Rescued After Getting Trapped Underground",
+          "description": "Subscribe For More Videos: http://bit.ly/DailyPicksAndFlicksYT\nLike Us On Facebook: https://bit.ly/2TL5eSL\nFollow Us On Twitter: https://bit.ly/3jPKtzG\n\nHave a video you want us to see? Submit it here: https://bit.ly/3jRbqDl\n\nHi and welcome to Daily Picks and Flicks – viral videos, funny pictures and odd news blog. We cover all the funny, interesting and strange stuff that is buzzing around the world. The weirder the better. Each day, we surf the web in an effort to find interesting, entertaining and unique videos, pictures and weird news stories. If you like what you find here, please recommend us to your friends. We already like you.\n\nAll the videos on this channel have been properly acquired from their rightful owners. For licensing / permission to use: Contact - licensing(at)jukinmedia(dot)com"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT48S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "3500300",
+        "likeCount": "148911",
+        "favoriteCount": "0",
+        "commentCount": "2884"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Rtx8uxc9O50JlZyP-exNfIwY_B8",
+      "id": "-bjTHHDDWGE",
+      "snippet": {
+        "publishedAt": "2023-05-12T14:23:53Z",
+        "channelId": "UC-603KNB_fvzHP9MpBqSKWg",
+        "title": "안 반할 수가 없는 강아지 애교 (진돗개)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-bjTHHDDWGE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-bjTHHDDWGE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-bjTHHDDWGE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-bjTHHDDWGE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-bjTHHDDWGE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "진똑개 풍이",
+        "categoryId": "15",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "안 반할 수가 없는 강아지 애교 (진돗개)",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT15S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "819266",
+        "likeCount": "16814",
+        "favoriteCount": "0",
+        "commentCount": "269"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "NjqIWt728YCKq5pcZeUYwcj5r4A",
+      "id": "o2Tt1dbaQd8",
+      "snippet": {
+        "publishedAt": "2023-05-02T03:55:50Z",
+        "channelId": "UCMT_Ptpp8okSJpZN91XriBw",
+        "title": "Em đừng đi em phải đi Anh chờ em 你摸走 #emdungdi #emđừngđi #youdon'tgo #你摸走",
+        "description": "Em đừng đi em phải đi Anh chờ em 你摸走 #emdungdi #emđừngđi #youdon'tgo #你摸走",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/o2Tt1dbaQd8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/o2Tt1dbaQd8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/o2Tt1dbaQd8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/o2Tt1dbaQd8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/o2Tt1dbaQd8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "FastHomes",
+        "tags": [
+          "你摸走",
+          "em dung di",
+          "em đừng đi",
+          "em đừng đi karaoke",
+          "em đừng đi sơn tùng",
+          "em đừng đi | 你摸走 | sơn thủy tổ hợp | 山水组合 | học tiếng trung qua bài hát",
+          "你莫走"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Em đừng đi em phải đi Anh chờ em 你摸走 #emdungdi #emđừngđi #youdon'tgo #你摸走",
+          "description": "Em đừng đi em phải đi Anh chờ em 你摸走 #emdungdi #emđừngđi #youdon'tgo #你摸走"
+        },
+        "defaultAudioLanguage": "vi"
+      },
+      "contentDetails": {
+        "duration": "PT13S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2349830",
+        "likeCount": "14550",
+        "favoriteCount": "0",
+        "commentCount": "220"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "TwCq5o0P398MDFnLkmdPxalCvZM",
+      "id": "kfMDI5-gg2E",
+      "snippet": {
+        "publishedAt": "2023-05-10T08:00:25Z",
+        "channelId": "UCY0fgIHG1waEsUc2KGOBcZg",
+        "title": "코모도왕도마뱀이 멧돼지를 산 채로 잡아먹는 영상",
+        "description": "코모도왕도마뱀 앞에서 여유떨던 인도들소\nhttps://youtu.be/Gb0WIPaXnL4\n\n코모도왕도마뱀이 멧돼지를 산 채로 잡아먹는 영상",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kfMDI5-gg2E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kfMDI5-gg2E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kfMDI5-gg2E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kfMDI5-gg2E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kfMDI5-gg2E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "동물돋보기",
+        "tags": [
+          "shorts",
+          "코모도왕도마뱀",
+          "멧돼지",
+          "코모도왕도마뱀멧돼지사냥",
+          "코모도왕도마뱀vs멧돼지",
+          "코모도왕도마뱀사냥",
+          "멧돼지사냥영상",
+          "동물사냥영상"
+        ],
+        "categoryId": "15",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "코모도왕도마뱀이 멧돼지를 산 채로 잡아먹는 영상",
+          "description": "코모도왕도마뱀 앞에서 여유떨던 인도들소\nhttps://youtu.be/Gb0WIPaXnL4\n\n코모도왕도마뱀이 멧돼지를 산 채로 잡아먹는 영상"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT59S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "758212",
+        "likeCount": "3360",
+        "favoriteCount": "0",
+        "commentCount": "47"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "DbHKayMNoOy574DZCRso2Lp7Us4",
+      "id": "Fi4SPXH9lXI",
+      "snippet": {
+        "publishedAt": "2023-05-04T09:00:19Z",
+        "channelId": "UCdZDQ36UzYt-RpzV2PF2-tw",
+        "title": "뭐가 나올까요?",
+        "description": "안녕하세요 꼬이지입니다\n재밌게봐주세요 ^^\n\n비즈니스메일 kkoizzi733@gmail.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Fi4SPXH9lXI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Fi4SPXH9lXI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Fi4SPXH9lXI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Fi4SPXH9lXI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Fi4SPXH9lXI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "꼬이지",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "뭐가 나올까요?",
+          "description": "안녕하세요 꼬이지입니다\n재밌게봐주세요 ^^\n\n비즈니스메일 kkoizzi733@gmail.com"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT27S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "5029569",
+        "likeCount": "101424",
+        "favoriteCount": "0",
+        "commentCount": "1448"
+      }
+    }
+  ],
+  "nextPageToken": "CBkQAA",
+  "pageInfo": {
+    "totalResults": 200,
+    "resultsPerPage": 25
+  }
+}

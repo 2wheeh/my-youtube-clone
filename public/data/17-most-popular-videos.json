@@ -1,0 +1,1883 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "OotNaonWxbOj4DU-8RQnAEJLSFI",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "LsNkZC38QS-xRFvypuIf6z0ptkw",
+      "id": "xiIGJLtjtbs",
+      "snippet": {
+        "publishedAt": "2023-05-12T10:06:55Z",
+        "channelId": "UC6t59aEbz2ELGBsxp2F-fjQ",
+        "title": "중국을 충격의 도가니에 빠뜨린 레전드 데뷔전ㄷㄷㄷ #shorts",
+        "description": "#shorts #쇼츠 #중국축구 #중국리그 #소림축구\n\n- 중국 2부리그 프로무대에서 나왔던 충격적인 데뷔전입니다ㅋㅋㅋㅋ\n\n- 여러분들의 구독과 좋아요는 큰 힘이 됩니다~!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xiIGJLtjtbs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xiIGJLtjtbs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xiIGJLtjtbs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xiIGJLtjtbs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xiIGJLtjtbs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "축구는 고스트",
+        "tags": [
+          "중국리그",
+          "소림축구",
+          "중국축구",
+          "축구영상",
+          "추천영상",
+          "인기영상",
+          "이스타",
+          "감스트",
+          "웨이스하오",
+          "우레이",
+          "손흥민",
+          "토트넘",
+          "이강인",
+          "역대급",
+          "레전드",
+          "귀화",
+          "bts",
+          "블랙핑크",
+          "중국",
+          "근황",
+          "김민재",
+          "월드컵",
+          "중국반응",
+          "중국대표팀",
+          "쇼츠",
+          "shorts",
+          "쇼츠영상",
+          "데뷔전"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "중국을 충격의 도가니에 빠뜨린 레전드 데뷔전ㄷㄷㄷ #shorts",
+          "description": "#shorts #쇼츠 #중국축구 #중국리그 #소림축구\n\n- 중국 2부리그 프로무대에서 나왔던 충격적인 데뷔전입니다ㅋㅋㅋㅋ\n\n- 여러분들의 구독과 좋아요는 큰 힘이 됩니다~!"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT28S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2428357",
+        "likeCount": "6914",
+        "favoriteCount": "0",
+        "commentCount": "1405"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Mgc2ZBus61g813_iOxpMvckw0vI",
+      "id": "IZNnUkimHf4",
+      "snippet": {
+        "publishedAt": "2023-05-11T02:10:46Z",
+        "channelId": "UCF3UEVPt5zZTlBVJwDG317g",
+        "title": "짬에서 나오는 바이브",
+        "description": "이게 이렇게 쉽게 들어갔던가?\n\n#뭉쳐야쏜다 #허재 #현주엽 #shorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IZNnUkimHf4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IZNnUkimHf4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IZNnUkimHf4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IZNnUkimHf4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IZNnUkimHf4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JTBC Voyage",
+        "tags": [
+          "JTBC",
+          "VOYAGE",
+          "봐야지",
+          "JTBC VOYAGE",
+          "JTBC 봐야지",
+          "type:방송",
+          "genre:게임",
+          "format:큐레이션",
+          "source:스포츠",
+          "topic:농구",
+          "person:허재",
+          "person:현주엽",
+          "person:김용만",
+          "person:김성주",
+          "person:안정환",
+          "perosn:이동국",
+          "person: 여홍철",
+          "person:김기훈",
+          "person:이형택",
+          "person:방신봉",
+          "perosn:김병현",
+          "person: 홍성흔",
+          "person:김동현",
+          "person:윤동식",
+          "뭉쳐야쏜다",
+          "뭉쳐야 쏜다",
+          "뭉쳐야쏜다 2회",
+          "뭉쳐야쏜다 허재",
+          "뭉쳐야쏜다 경기",
+          "뭉쳐야쏜다 농구",
+          "농구경기",
+          "농구",
+          "허재",
+          "뭉쳐야쏜다 이동국",
+          "허재 불낙",
+          "허재 현주엽",
+          "뭉쳐야쏜다 안정환",
+          "뭉쳐야쏜다 다시보기",
+          "농구 예능",
+          "현주엽",
+          "허웅 허훈",
+          "허재 허웅 허훈",
+          "상암불낙스",
+          "봐야지 뭉쳐야쏜다",
+          "리바운드",
+          "슬램덩크",
+          "강백호",
+          "클린슛",
+          "덩크슛"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "짬에서 나오는 바이브",
+          "description": "이게 이렇게 쉽게 들어갔던가?\n\n#뭉쳐야쏜다 #허재 #현주엽 #shorts"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT41S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "4004169",
+        "likeCount": "52830",
+        "favoriteCount": "0",
+        "commentCount": "693"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "2I0njUP9JK_nFsvIKClWLOFyuEU",
+      "id": "ff-D7TghIcc",
+      "snippet": {
+        "publishedAt": "2023-05-08T00:36:24Z",
+        "channelId": "UCRtpOocqj6AxPz1Zrn2kYQA",
+        "title": "킹명호는 놔두라고!!",
+        "description": "비즈니스 문의 : jinku7979@gmail.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ff-D7TghIcc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ff-D7TghIcc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ff-D7TghIcc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ff-D7TghIcc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ff-D7TghIcc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "썰반장",
+        "tags": ["쇼츠", "shorts"],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "킹명호는 놔두라고!!",
+          "description": "비즈니스 문의 : jinku7979@gmail.com"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT48S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "6301651",
+        "likeCount": "75230",
+        "favoriteCount": "0",
+        "commentCount": "1422"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "MWWtBoWLKI2J3IvRh1Xt6pKggmg",
+      "id": "wKNEPJvBxdM",
+      "snippet": {
+        "publishedAt": "2023-05-14T00:30:19Z",
+        "channelId": "UCAIMfhYpcQ7bI1fRQqQT1Dw",
+        "title": "시속 40km로 달릴 수 있는 신발",
+        "description": "뚝딱 상식 뚝배기 한그릇하고 가세요!\n\nE-mail : oneminsangsic@gmail.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wKNEPJvBxdM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wKNEPJvBxdM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wKNEPJvBxdM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wKNEPJvBxdM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wKNEPJvBxdM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뚝딱 상식 뚝배기",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "시속 40km로 달릴 수 있는 신발",
+          "description": "뚝딱 상식 뚝배기 한그릇하고 가세요!\n\nE-mail : oneminsangsic@gmail.com"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT31S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1745585",
+        "likeCount": "46262",
+        "favoriteCount": "0",
+        "commentCount": "976"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "bo29KfYhGeDhSMFnAKZu6yIWaNQ",
+      "id": "D2goCqnVzfE",
+      "snippet": {
+        "publishedAt": "2023-05-13T02:30:04Z",
+        "channelId": "UC7JbUmyD7g8JH6LvkkQuSZQ",
+        "title": "조축 가입 1초만에 거절당한 국대 골키퍼ㅋㅋㅋㅋㅋ #shorts",
+        "description": "충격) 대한민국 조기축구... 국대 발탁보다 어려워..\n-\n원희형 인스타그램\nInstagram : https://www.instagram.com/wonhee06",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/D2goCqnVzfE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/D2goCqnVzfE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/D2goCqnVzfE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/D2goCqnVzfE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/D2goCqnVzfE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이거해조 원희형",
+        "tags": [
+          "이거해조원희형",
+          "이거해조",
+          "원희형",
+          "조원희",
+          "wonheehyung",
+          "워니형",
+          "fifa",
+          "피파온라인4",
+          "피파",
+          "피온4",
+          "피파온라인",
+          "이범영",
+          "크루투와",
+          "쿠르트와",
+          "쿠르투아",
+          "데 헤아",
+          "이범영 조원희",
+          "이범영 피파",
+          "이범영 피온",
+          "이범영 키",
+          "이범영키 진실",
+          "이범양",
+          "피파 12kh",
+          "12kh",
+          "피온 12kh",
+          "피파 적폐",
+          "적폐",
+          "피온 적폐 스쿼드",
+          "적폐 스쿼드",
+          "어쩔범영",
+          "대범영",
+          "범신",
+          "범르투아",
+          "범르투와",
+          "범발롬",
+          "그저범신",
+          "한국 국대",
+          "국가대표 스쿼드",
+          "국대 스쿼드 피파",
+          "ㅜㄱ대",
+          "국대 스쿼드",
+          "대한민국 국대",
+          "피파 국대 스쿼드"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "조축 가입 1초만에 거절당한 국대 골키퍼ㅋㅋㅋㅋㅋ #shorts",
+          "description": "충격) 대한민국 조기축구... 국대 발탁보다 어려워..\n-\n원희형 인스타그램\nInstagram : https://www.instagram.com/wonhee06"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT31S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1494462",
+        "likeCount": "11864",
+        "favoriteCount": "0",
+        "commentCount": "192"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "BSKXo38YQJhRZnaqQUFfoV9nP0A",
+      "id": "B8k6RKxJLVU",
+      "snippet": {
+        "publishedAt": "2023-05-11T11:43:02Z",
+        "channelId": "UCFJDvwz3KlObWsqyfteor8w",
+        "title": "김남일 말로 담구는 안정환 #shorts",
+        "description": "#shorts #즐라탄 #안정환 #김남일\n#손흥민 #김민재 #이강인 #이야기창고 #이천수 \n#리춘수 \n무료 구독하기        \n https://bit.ly/3DABeiA",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/B8k6RKxJLVU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/B8k6RKxJLVU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/B8k6RKxJLVU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/B8k6RKxJLVU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/B8k6RKxJLVU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이야기 창고  -  인물 스토리  전문 채널",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "김남일 말로 담구는 안정환 #shorts",
+          "description": "#shorts #즐라탄 #안정환 #김남일\n#손흥민 #김민재 #이강인 #이야기창고 #이천수 \n#리춘수 \n무료 구독하기        \n https://bit.ly/3DABeiA"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT32S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2028326",
+        "likeCount": "11830",
+        "favoriteCount": "0",
+        "commentCount": "156"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "xhb8rTPJRRSg3isxjIuQLqNNbhg",
+      "id": "JVLkgeydJkE",
+      "snippet": {
+        "publishedAt": "2023-05-10T07:58:56Z",
+        "channelId": "UC7BzM0dLCc9jGrg0Qew1_SQ",
+        "title": "김민재와 이강인의 신경전(귀여움주의) #shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JVLkgeydJkE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JVLkgeydJkE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JVLkgeydJkE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JVLkgeydJkE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JVLkgeydJkE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "라이프 시크릿",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "김민재와 이강인의 신경전(귀여움주의) #shorts",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT36S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2962010",
+        "likeCount": "39368",
+        "favoriteCount": "0",
+        "commentCount": "588"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "tKl5j_HRyvrdJSV96II38jk7BCA",
+      "id": "PgJ_kvMrnp4",
+      "snippet": {
+        "publishedAt": "2023-05-15T12:00:18Z",
+        "channelId": "UCJ4ETdbjB1MDhjwEZDtUlBQ",
+        "title": "농구가 중요한 이유",
+        "description": "#김한강 #mrbeast #웃긴영상 @kidari192",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PgJ_kvMrnp4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PgJ_kvMrnp4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PgJ_kvMrnp4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PgJ_kvMrnp4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PgJ_kvMrnp4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "일오팔",
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "농구가 중요한 이유",
+          "description": "#김한강 #mrbeast #웃긴영상 @kidari192"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT46S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1167727",
+        "likeCount": "42104",
+        "favoriteCount": "0",
+        "commentCount": "354"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "3xjQtNl57nr_4H8xLNcJYZ7hFOU",
+      "id": "cy4EEFdaQHs",
+      "snippet": {
+        "publishedAt": "2023-05-04T22:30:03Z",
+        "channelId": "UC6WkKvPt8FTR1onNso-JQYA",
+        "title": "칼 든 강도를 상대하는 호신술의 현실",
+        "description": "#shorts #호신술\n\n영상출처\nhttps://www.tiktok.com/@instructorahmed\nhttps://www.youtube.com/watch?v=kvlrnc7hlQI",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cy4EEFdaQHs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cy4EEFdaQHs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cy4EEFdaQHs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cy4EEFdaQHs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cy4EEFdaQHs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "알그몰그",
+        "tags": [
+          "유머",
+          "이슈",
+          "연예",
+          "재미",
+          "fun",
+          "이야기",
+          "스토리",
+          "정보",
+          "지식",
+          "역사"
+        ],
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "칼 든 강도를 상대하는 호신술의 현실",
+          "description": "#shorts #호신술\n\n영상출처\nhttps://www.tiktok.com/@instructorahmed\nhttps://www.youtube.com/watch?v=kvlrnc7hlQI"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT35S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "9576932",
+        "likeCount": "181511",
+        "favoriteCount": "0",
+        "commentCount": "4434"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "bIIWq_7qCyWuXlmO6X2y32UzoeI",
+      "id": "AbP2_pXLkFE",
+      "snippet": {
+        "publishedAt": "2023-05-17T23:00:05Z",
+        "channelId": "UCkzCjdRMrW2vXLx8mvPVLdQ",
+        "title": "HIGHLIGHTS! Man City 4-0 Real Madrid | CITY SECURE UCL FINAL SPOT WITH STUNNING WIN OVER REAL MADRID",
+        "description": "City secured a place in the Champions League final with a breath-taking victory over current holders Real Madrid.\n\nPep Guardiola’s side completed an incredible 4-0 win in a pulsating second leg at the Etihad Stadium to complete a 5-1 aggregate semi-final victory.\n\nSUBSCRIBE! http://www.youtube.com/subscription_center?add_user=mancity\n\nhttp://www.mancity.com\nhttp://www.facebook.com/mancity\nhttp://www.twitter.com/mancity\nhttp://www.instagram.com/mancity\nhttps://www.tiktok.com/@mancity\n\nAbout the Official Man City YouTube Channel:\n\nHere you will find all the latest videos from Manchester City, including, all Premier League goals, highlights, behind-the-scenes footage, training and much more.\n\nGet closer to the likes of Jack Grealish, Bunny Shaw, Kevin De Bruyne, Lauren Hemp, Erling Haaland, Riyad Mahrez, Ellie Roebuck Phil Foden, Esme Morgan and the rest of Pep Guardiola & Gareth Taylor's teams!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AbP2_pXLkFE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AbP2_pXLkFE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AbP2_pXLkFE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AbP2_pXLkFE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AbP2_pXLkFE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Man City",
+        "tags": [
+          "man city",
+          "manchester city",
+          "mcfc",
+          "fifa 22",
+          "man city highlights",
+          "man city goals",
+          "city",
+          "man",
+          "city vs",
+          "man city vs",
+          "chelsea man city",
+          "man city news",
+          "man united",
+          "chelsea",
+          "liverpool",
+          "man city v",
+          "city fixtures",
+          "city vs united",
+          "man city fixtures",
+          "grealish man city",
+          "jack grealish man city",
+          "jack grealish",
+          "haaland"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-GB",
+        "localized": {
+          "title": "HIGHLIGHTS! Man City 4-0 Real Madrid | CITY SECURE UCL FINAL SPOT WITH STUNNING WIN OVER REAL MADRID",
+          "description": "City secured a place in the Champions League final with a breath-taking victory over current holders Real Madrid.\n\nPep Guardiola’s side completed an incredible 4-0 win in a pulsating second leg at the Etihad Stadium to complete a 5-1 aggregate semi-final victory.\n\nSUBSCRIBE! http://www.youtube.com/subscription_center?add_user=mancity\n\nhttp://www.mancity.com\nhttp://www.facebook.com/mancity\nhttp://www.twitter.com/mancity\nhttp://www.instagram.com/mancity\nhttps://www.tiktok.com/@mancity\n\nAbout the Official Man City YouTube Channel:\n\nHere you will find all the latest videos from Manchester City, including, all Premier League goals, highlights, behind-the-scenes footage, training and much more.\n\nGet closer to the likes of Jack Grealish, Bunny Shaw, Kevin De Bruyne, Lauren Hemp, Erling Haaland, Riyad Mahrez, Ellie Roebuck Phil Foden, Esme Morgan and the rest of Pep Guardiola & Gareth Taylor's teams!"
+        },
+        "defaultAudioLanguage": "en-GB"
+      },
+      "contentDetails": {
+        "duration": "PT1M45S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "7359055",
+        "likeCount": "129892",
+        "favoriteCount": "0",
+        "commentCount": "7285"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "wy0ZMagejkBX7g3gZZYHseTNkAI",
+      "id": "Ob1T5hJN0E0",
+      "snippet": {
+        "publishedAt": "2023-05-17T08:03:39Z",
+        "channelId": "UCPDKAhacqpqmP7aXWem3_Jg",
+        "title": "배트를 휘두르자 몰아치는 회오리",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ob1T5hJN0E0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ob1T5hJN0E0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ob1T5hJN0E0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ob1T5hJN0E0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ob1T5hJN0E0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "지식줄고양",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "배트를 휘두르자 몰아치는 회오리",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT25S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "471557",
+        "likeCount": "18020",
+        "favoriteCount": "0",
+        "commentCount": "443"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "lQS8h93egD8l9LyUeaRLUkAkfYE",
+      "id": "oSECV-qyGf0",
+      "snippet": {
+        "publishedAt": "2023-05-18T05:00:33Z",
+        "channelId": "UCtm_QoN2SIxwCE-59shX7Qg",
+        "title": "[22/23 UCL] 맨시티 vs R.마드리드 B.실바 주요장면",
+        "description": "맨체스터 시티 vs 레알 마드리드 베르나르두 실바 주요장면\nSPOTV NOW로 H/L 시청하기 (무료) ☞ https://bit.ly/41OnWcq",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oSECV-qyGf0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oSECV-qyGf0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oSECV-qyGf0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oSECV-qyGf0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oSECV-qyGf0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SPOTV",
+        "tags": [
+          "SPOTV",
+          "스포티비",
+          "UCL",
+          "챔피언스리그",
+          "베르나르두 실바",
+          "맨시티",
+          "레알 마드리드"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[22/23 UCL] 맨시티 vs R.마드리드 B.실바 주요장면",
+          "description": "맨체스터 시티 vs 레알 마드리드 베르나르두 실바 주요장면\nSPOTV NOW로 H/L 시청하기 (무료) ☞ https://bit.ly/41OnWcq"
+        },
+        "defaultAudioLanguage": "zxx"
+      },
+      "contentDetails": {
+        "duration": "PT4M14S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "regionRestriction": {
+          "allowed": ["KR"]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "606900",
+        "likeCount": "4843",
+        "favoriteCount": "0",
+        "commentCount": "1398"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "T7cKbhhOnPS0zDG_30VeCygj6TE",
+      "id": "liGMgcP84Ic",
+      "snippet": {
+        "publishedAt": "2023-05-13T02:23:55Z",
+        "channelId": "UCT8DsZlac7D1_dx6d8Kh_Qw",
+        "title": "연차별 '네이마르' 덕후 특징",
+        "description": "아직도 그의 플레이는 제 심장을 뛰게 하죠!\n입문자부터 12년까지 구성해 봤습니다~\n\n#shorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/liGMgcP84Ic/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/liGMgcP84Ic/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/liGMgcP84Ic/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/liGMgcP84Ic/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/liGMgcP84Ic/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JK 아트사커 온라인",
+        "tags": [
+          "유럽 축구",
+          "명장면",
+          "슈팅",
+          "골",
+          "브라질 국가대표",
+          "호돈신",
+          "jk아트사커"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "연차별 '네이마르' 덕후 특징",
+          "description": "아직도 그의 플레이는 제 심장을 뛰게 하죠!\n입문자부터 12년까지 구성해 봤습니다~\n\n#shorts"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT35S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1593061",
+        "likeCount": "29779",
+        "favoriteCount": "0",
+        "commentCount": "132"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ykuDvTizFO5-l3Wm9T38Dhs1bFk",
+      "id": "fB99m2JDKDM",
+      "snippet": {
+        "publishedAt": "2023-05-15T21:33:52Z",
+        "channelId": "UCQm_57kgaaLWdJR2Y1hHIiw",
+        "title": "박지성이 맨유시절 집 안사고 전세 산 이유 #shorts",
+        "description": "#박지성 #맨체스터유나이티드",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fB99m2JDKDM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fB99m2JDKDM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fB99m2JDKDM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fB99m2JDKDM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fB99m2JDKDM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "싸커 스토리",
+        "tags": [
+          "박지성",
+          "박지성 집",
+          "박지성 영국",
+          "박지성 맨유",
+          "박지성 맨체스터 유나이티드",
+          "박지성 전세"
+        ],
+        "categoryId": "25",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "박지성이 맨유시절 집 안사고 전세 산 이유 #shorts",
+          "description": "#박지성 #맨체스터유나이티드"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT26S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "353302",
+        "likeCount": "7095",
+        "favoriteCount": "0",
+        "commentCount": "681"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "I3ABx5_M-DMLqONGTKc_RbsjSos",
+      "id": "jYYOigxGnoA",
+      "snippet": {
+        "publishedAt": "2023-05-09T11:46:12Z",
+        "channelId": "UCG5qGWdu8nIRZqJ_GgDwQ-w",
+        "title": "The goal or the Man City build-up? 🤤 #shorts",
+        "description": "The goal or the Man City build-up? Bernardo Silva scores a stunning volley in a Premier League match against Aston Villa (2021/22).\n\nPremier League shorts 👇\nhttps://youtube.com/playlist?list=PLQ_voP4Q3cfcaScJRgWgLgSX3FNMdZC6w\n\nSubscribe to the official Premier League YouTube channel: http://preml.ge/PremierLeagueYouTube \nPremier League website: http://preml.ge/PremierLeagueWebsite\nFollow the Premier League on Instagram: http://preml.ge/PremierLeagueInstagram\nFollow the Premier League on Twitter: http://preml.ge/PremierLeagueTwitter\nLike the Premier League on Facebook: http://preml.ge/PremierLeagueFacebook\nPlay Fantasy Premier League: http://preml.ge/FantasyPremierLeague\nTo license Premier League match footage: https://imgreplay.com/contact\n\n#Shorts #PremierLeague #Football #Soccer\n\nYour safety online\n\nVisit the Child Exploitation and Online Protection website for confidential support if something has happened online which has made you feel unsafe, if you are worried about someone else or to report online abuse. (https://www.ceop.police.uk/safety-centre)\n\nYou should contact the Police by calling 999 if you or anybody else is in any sort of danger.\n\nVisit CEOP’s Thinkuknow website for advice and guidance on safe surfing and staying safe online for example when using mobile phones, blogs, social media, chatting, online gaming and emailing. (https://www.thinkuknow.co.uk)\n\nYou can also visit the Premier League safeguarding page for more information. (https://www.premierleague.com/safeguarding)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jYYOigxGnoA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jYYOigxGnoA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jYYOigxGnoA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jYYOigxGnoA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jYYOigxGnoA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Premier League",
+        "tags": [
+          "Man City",
+          "Manchester City",
+          "Man City goal",
+          "Manchester City goal",
+          "Man City goals",
+          "Manchester City goals",
+          "Man City highlights",
+          "Manchester City highlights",
+          "goals",
+          "Bernardo Silva goal",
+          "Bernardo Silva volley",
+          "Aston Villa",
+          "Bernardo Silva Man City",
+          "football",
+          "soccer",
+          "Premier League",
+          "epl",
+          "Premier League goals",
+          "epl goals",
+          "Premier League highlights",
+          "epl highlights",
+          "short",
+          "shorts",
+          "#shorts",
+          "TikTok",
+          "football TikTok",
+          "soccer TikTok",
+          "football shorts",
+          "soccer shorts",
+          "football short",
+          "soccer short",
+          "PL"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "The goal or the Man City build-up? 🤤 #shorts",
+          "description": "The goal or the Man City build-up? Bernardo Silva scores a stunning volley in a Premier League match against Aston Villa (2021/22).\n\nPremier League shorts 👇\nhttps://youtube.com/playlist?list=PLQ_voP4Q3cfcaScJRgWgLgSX3FNMdZC6w\n\nSubscribe to the official Premier League YouTube channel: http://preml.ge/PremierLeagueYouTube \nPremier League website: http://preml.ge/PremierLeagueWebsite\nFollow the Premier League on Instagram: http://preml.ge/PremierLeagueInstagram\nFollow the Premier League on Twitter: http://preml.ge/PremierLeagueTwitter\nLike the Premier League on Facebook: http://preml.ge/PremierLeagueFacebook\nPlay Fantasy Premier League: http://preml.ge/FantasyPremierLeague\nTo license Premier League match footage: https://imgreplay.com/contact\n\n#Shorts #PremierLeague #Football #Soccer\n\nYour safety online\n\nVisit the Child Exploitation and Online Protection website for confidential support if something has happened online which has made you feel unsafe, if you are worried about someone else or to report online abuse. (https://www.ceop.police.uk/safety-centre)\n\nYou should contact the Police by calling 999 if you or anybody else is in any sort of danger.\n\nVisit CEOP’s Thinkuknow website for advice and guidance on safe surfing and staying safe online for example when using mobile phones, blogs, social media, chatting, online gaming and emailing. (https://www.thinkuknow.co.uk)\n\nYou can also visit the Premier League safeguarding page for more information. (https://www.premierleague.com/safeguarding)"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT19S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "regionRestriction": {
+          "blocked": ["RU"]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "12578019",
+        "likeCount": "286032",
+        "favoriteCount": "0",
+        "commentCount": "525"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "QYOJrTzbGuiUKrNjL1ffMHg5VXs",
+      "id": "a6olePRJCOU",
+      "snippet": {
+        "publishedAt": "2023-05-03T23:10:05Z",
+        "channelId": "UCX3KEmJd6CXRNH6YVa9AoOQ",
+        "title": "링 걸을 너무 좋아했던 남자",
+        "description": "@ONEChampionship \n\n구독과✔ 좋아요는 큰 힘이 됩니다👍\n\n재미있는 걸 보내주세요!\nhttps://www.tiktok.com/@jasonmedia6969\n\n#쇼츠 #운동 #ufc #복싱",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/a6olePRJCOU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/a6olePRJCOU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/a6olePRJCOU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/a6olePRJCOU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/a6olePRJCOU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JASON MEDIA",
+        "tags": ["#제이슨미디어", "#제이슨", "#미디어"],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "링 걸을 너무 좋아했던 남자",
+          "description": "@ONEChampionship \n\n구독과✔ 좋아요는 큰 힘이 됩니다👍\n\n재미있는 걸 보내주세요!\nhttps://www.tiktok.com/@jasonmedia6969\n\n#쇼츠 #운동 #ufc #복싱"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT14S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "5152627",
+        "likeCount": "43638",
+        "favoriteCount": "0",
+        "commentCount": "993"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "KB-vv6j8-MHty4w5J2xq3ASHwQY",
+      "id": "a4Yrvdd3FXM",
+      "snippet": {
+        "publishedAt": "2023-05-08T03:46:30Z",
+        "channelId": "UCbZoUb1IWYLrGozlnWokcZg",
+        "title": "인종차별 관중 쳐다보며 웃는 손흥민",
+        "description": "#손흥민 #토트넘 #이강인 #극장골 #빨대형",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/a4Yrvdd3FXM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/a4Yrvdd3FXM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/a4Yrvdd3FXM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/a4Yrvdd3FXM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/a4Yrvdd3FXM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "극장골",
+        "tags": [
+          "손흥민",
+          "토트넘",
+          "이강인",
+          "김민재",
+          "극장골",
+          "빨대형",
+          "프리미어리그"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "인종차별 관중 쳐다보며 웃는 손흥민",
+          "description": "#손흥민 #토트넘 #이강인 #극장골 #빨대형"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT13S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2687214",
+        "likeCount": "15519",
+        "favoriteCount": "0",
+        "commentCount": "1024"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "HkB1355Iq92mca0k92RYCLeHfjc",
+      "id": "hvZOEH0n9DQ",
+      "snippet": {
+        "publishedAt": "2023-05-18T07:54:35Z",
+        "channelId": "UCnXNukjRxXGD8aeZGRV-lYg",
+        "title": "'충격' 맨시티, 레알 완파하고 UCL 결승행… 트레블 노린다 #SPOTIME",
+        "description": "#맨시티 #레알 #챔피언스리그 #결승\n\n맨시티가 레알 마드리드를 완파했습니다.\n챔피언스리그 결승에 진출한 맨시티!\n\n자세한 내용은 영상으로 확인하시죠~\n\n📺 지금 보고 있는 '이 장면'\nSPOTV NOW에서 시청하실 수 있습니다.\n\nSPOTVNEWS ☞ http://www.spotvnews.co.kr/ \nSPOTV NOW ☞ https://www.spotvnow.co.kr/\n네이버 TV ☞ https://tv.naver.com/spotvmaster/clips\n카카오 TV ☞ https://tv.kakao.com/channel/1706/video\n페이스북 ☞  https://www.facebook.com/spotvnews\n내가 원하는 스포츠 상품 구매는? ☞  https://www.spotvmall.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hvZOEH0n9DQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hvZOEH0n9DQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hvZOEH0n9DQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hvZOEH0n9DQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hvZOEH0n9DQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "스포타임",
+        "tags": [
+          "SPOTV",
+          "SPOTVNEWS",
+          "스포티비",
+          "스포티비뉴스",
+          "스포츠타임",
+          "SPOTVNOW",
+          "스포티비나우",
+          "SPOTIME",
+          "맨시티",
+          "레알",
+          "챔피언스리그",
+          "결승",
+          "스포타임",
+          "홀란드",
+          "데브라위너",
+          "귄도안",
+          "베실바",
+          "잭그릴리쉬"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "'충격' 맨시티, 레알 완파하고 UCL 결승행… 트레블 노린다 #SPOTIME",
+          "description": "#맨시티 #레알 #챔피언스리그 #결승\n\n맨시티가 레알 마드리드를 완파했습니다.\n챔피언스리그 결승에 진출한 맨시티!\n\n자세한 내용은 영상으로 확인하시죠~\n\n📺 지금 보고 있는 '이 장면'\nSPOTV NOW에서 시청하실 수 있습니다.\n\nSPOTVNEWS ☞ http://www.spotvnews.co.kr/ \nSPOTV NOW ☞ https://www.spotvnow.co.kr/\n네이버 TV ☞ https://tv.naver.com/spotvmaster/clips\n카카오 TV ☞ https://tv.kakao.com/channel/1706/video\n페이스북 ☞  https://www.facebook.com/spotvnews\n내가 원하는 스포츠 상품 구매는? ☞  https://www.spotvmall.com"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M15S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "regionRestriction": {
+          "allowed": ["KR"]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "383627",
+        "likeCount": "3219",
+        "favoriteCount": "0",
+        "commentCount": "1116"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "CIxNhEGPJBgqKPGv-bYyfOGceUE",
+      "id": "ThluXOimkbA",
+      "snippet": {
+        "publishedAt": "2023-05-15T07:35:50Z",
+        "channelId": "UCacrz-_Ps4QXW0oVIrC7a3A",
+        "title": "인니 감독 충격 고백. 박항서 떠나자 베트남 완전히 달라졌다.",
+        "description": "#박항서 #베트남 #신태용 #축구",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ThluXOimkbA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ThluXOimkbA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ThluXOimkbA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ThluXOimkbA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ThluXOimkbA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이슈 인사이드",
+        "categoryId": "25",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "인니 감독 충격 고백. 박항서 떠나자 베트남 완전히 달라졌다.",
+          "description": "#박항서 #베트남 #신태용 #축구"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT39S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "237202",
+        "likeCount": "2260",
+        "favoriteCount": "0",
+        "commentCount": "72"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "lnfvV7GY7NN0y1E0S35x2pOP1SA",
+      "id": "ZUFfE7xQaqA",
+      "snippet": {
+        "publishedAt": "2023-05-08T23:45:00Z",
+        "channelId": "UCReENaX7jbFVGMu5fuv92rQ",
+        "title": "UFC 김동현 1초컷 영상 [천하제일장사2 7회] #shorts",
+        "description": "#천하제일장사2 #김동현 #조진형\n\n땀 안 난 김동현 밀어버리는 1초컷 사나이 조진형?!\n1초컷 승부사 \"저는 좀 다를 겁니다!\"\nvs 파죽지세 김동현 \"다를 것 같지만 그 차이는 미미할 것 같습니다\"\n\n진짜 1초컷이네 김동현ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ\n\n매주 토요일 밤 9시 '우리동네 B tv'에서 만나요!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZUFfE7xQaqA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZUFfE7xQaqA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZUFfE7xQaqA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZUFfE7xQaqA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZUFfE7xQaqA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "우리동네 B tv",
+        "tags": [
+          "sk브로드밴드",
+          "SK브로드밴드 지역채널",
+          "우리동네 B tv",
+          "우리동네Btv",
+          "우리동네비티비",
+          "B tv",
+          "Btv",
+          "천하제일장사",
+          "천하제일장사 시즌2",
+          "천하제일장사2",
+          "피지컬100",
+          "피지컬백",
+          "피지컬100 조진형",
+          "김경진",
+          "마선호",
+          "조진형",
+          "김동현",
+          "명현만",
+          "정다운",
+          "현주엽",
+          "우지원",
+          "박광재",
+          "송종국",
+          "김용대",
+          "백지훈",
+          "남경진",
+          "황도현",
+          "김형원",
+          "모태범",
+          "서영우",
+          "강한",
+          "양준혁",
+          "홍성흔",
+          "최준석",
+          "씨름대회",
+          "씨름선수",
+          "천하제일장사 우승",
+          "천하제일장사 추성훈",
+          "추성훈",
+          "넷플릭스 피지컬100",
+          "채널A",
+          "채널S",
+          "피지컬100 천하제일장사",
+          "천하제일장사 피지컬100",
+          "헬스",
+          "헬창",
+          "헬린이",
+          "피지컬100 근황",
+          "ufc",
+          "ufc 정다운",
+          "김종국 헬스",
+          "짐종국",
+          "격투기 정다운",
+          "김동현 명현만",
+          "농구 레전드",
+          "농구 현주엽",
+          "현주엽 먹방",
+          "현주엽 박광재",
+          "김동현 명현만 정다운",
+          "정다운 근황",
+          "김종국 옷",
+          "농구 우지원",
+          "김동현 격투기",
+          "매미킴",
+          "매미킴 김동현",
+          "피지컬100 자동차딜러",
+          "자동차딜러",
+          "물근육",
+          "스트롱맨",
+          "ufc 김동현"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "UFC 김동현 1초컷 영상 [천하제일장사2 7회] #shorts",
+          "description": "#천하제일장사2 #김동현 #조진형\n\n땀 안 난 김동현 밀어버리는 1초컷 사나이 조진형?!\n1초컷 승부사 \"저는 좀 다를 겁니다!\"\nvs 파죽지세 김동현 \"다를 것 같지만 그 차이는 미미할 것 같습니다\"\n\n진짜 1초컷이네 김동현ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ\n\n매주 토요일 밤 9시 '우리동네 B tv'에서 만나요!"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT30S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1183287",
+        "likeCount": "11005",
+        "favoriteCount": "0",
+        "commentCount": "408"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "uYDdvgh9bhfclBI1IaOxRPVypSg",
+      "id": "mXtN5noMNNw",
+      "snippet": {
+        "publishedAt": "2023-05-15T08:45:02Z",
+        "channelId": "UChrfQTUTKP7KZpeQ_5SxPCw",
+        "title": "이강인도 못 참는다는 이것 #shorts",
+        "description": "이강인 선수는 팬들에게 선물을 받지 않기로 유명하죠!\n그런데 이거 하나만큼은 받는다고 하는데 그것의 정체는?\n\n문의: psychobump@gmail.com\n\n\n#shorts #이강인 #웃긴영상",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mXtN5noMNNw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mXtN5noMNNw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mXtN5noMNNw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mXtN5noMNNw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mXtN5noMNNw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "기기묘묘",
+        "tags": ["축구", "이강인", "유머"],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "이강인도 못 참는다는 이것 #shorts",
+          "description": "이강인 선수는 팬들에게 선물을 받지 않기로 유명하죠!\n그런데 이거 하나만큼은 받는다고 하는데 그것의 정체는?\n\n문의: psychobump@gmail.com\n\n\n#shorts #이강인 #웃긴영상"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT18S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "592531",
+        "likeCount": "18479",
+        "favoriteCount": "0",
+        "commentCount": "133"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "s13c8X7HxLNTRO1gF4Rn1otqEtY",
+      "id": "YHWOVzBhf7w",
+      "snippet": {
+        "publishedAt": "2023-05-10T09:00:30Z",
+        "channelId": "UCyjbVaR7jNnAByA3hBevJhg",
+        "title": "디온테이 와일더의 화끈한 원펀치🥊 #shorts",
+        "description": "#복싱 #디온테이와일더 #타이슨퓨리",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YHWOVzBhf7w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YHWOVzBhf7w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YHWOVzBhf7w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YHWOVzBhf7w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YHWOVzBhf7w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "테스토스테론",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "디온테이 와일더의 화끈한 원펀치🥊 #shorts",
+          "description": "#복싱 #디온테이와일더 #타이슨퓨리"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT1M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "845958",
+        "likeCount": "4338",
+        "favoriteCount": "0",
+        "commentCount": "105"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Q5s9lmw4_FZ1aaMwTnqYuG1bv0Q",
+      "id": "wEOA3Q3kyt4",
+      "snippet": {
+        "publishedAt": "2023-05-05T09:41:09Z",
+        "channelId": "UC4GGuBhd3SSEwBYsON8EO_A",
+        "title": "배지환선수 금목걸이 논란",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wEOA3Q3kyt4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wEOA3Q3kyt4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wEOA3Q3kyt4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wEOA3Q3kyt4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wEOA3Q3kyt4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "숏포츠",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "배지환선수 금목걸이 논란",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT43S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2560282",
+        "favoriteCount": "0",
+        "commentCount": "2645"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "SQnpQLEjZ9fNg7Pr8knfxHqrKXc",
+      "id": "PFZQWvYGLjo",
+      "snippet": {
+        "publishedAt": "2023-05-14T12:02:00Z",
+        "channelId": "UCL-W3bGuHbtjR-eNEmGRF1w",
+        "title": "조폭 담당일진 명현만에 대해 당신이 알아야될 사실들..!",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PFZQWvYGLjo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PFZQWvYGLjo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PFZQWvYGLjo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PFZQWvYGLjo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PFZQWvYGLjo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "딱 30초만",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "조폭 담당일진 명현만에 대해 당신이 알아야될 사실들..!",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT41S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "275923",
+        "likeCount": "1262",
+        "favoriteCount": "0",
+        "commentCount": "60"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "O78PB57bUGvcePjSdTM3LuHZ76I",
+      "id": "U03okJwxrMc",
+      "snippet": {
+        "publishedAt": "2023-05-15T12:00:30Z",
+        "channelId": "UCX997IeS1E2J1rAXN-XReUA",
+        "title": "UFC 김지연이 빡친 이유",
+        "description": "vs 맨디 뵘\n\n#mma #격투기 #ufc",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/U03okJwxrMc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/U03okJwxrMc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/U03okJwxrMc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/U03okJwxrMc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/U03okJwxrMc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "자막캐리",
+        "tags": [
+          "싸움",
+          "KO",
+          "실신",
+          "여자 싸움",
+          "맨디 뵘",
+          "카운터 펀치",
+          "레그킥",
+          "페이스 오프",
+          "ufc 김지연",
+          "ufc 한국 여자 선수",
+          "그로기"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "UFC 김지연이 빡친 이유",
+          "description": "vs 맨디 뵘\n\n#mma #격투기 #ufc"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT55S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "224043",
+        "likeCount": "1566",
+        "favoriteCount": "0",
+        "commentCount": "168"
+      }
+    }
+  ],
+  "nextPageToken": "CBkQAA",
+  "pageInfo": {
+    "totalResults": 194,
+    "resultsPerPage": 25
+  }
+}

@@ -2,22 +2,18 @@ import React from 'react';
 import VideoCard from './VideoCard';
 import { useParams } from 'react-router-dom';
 import { useQuery } from '@tanstack/react-query';
-import axios from 'axios';
+import { useYoutubeApi } from '../context/YoutubeApiContext';
 
 export default function Videos() {
-  const { videoCategoryId } = useParams();
-
+  const { videoCategoryId, channelId } = useParams();
+  const { youtube } = useYoutubeApi();
   const {
     isLoading,
     error,
     data: videos,
   } = useQuery(
     ['videos', `${videoCategoryId}`],
-    () => {
-      return axios
-        .get('/data/most-popular-videos.json')
-        .then(res => res.data.items);
-    },
+    () => youtube.mostPopularVideos(videoCategoryId),
     { staleTime: 1000 * 60 * 5 } // 5 min
   );
 
@@ -28,7 +24,10 @@ export default function Videos() {
   return (
     <>
       <p>list of videoCards</p>
-      <VideoCard videos={videos} />
+      <p>categoryId : {videoCategoryId}</p>
+      {videos.map(video => (
+        <VideoCard video={video} key={video.id} />
+      ))}
     </>
   );
 }

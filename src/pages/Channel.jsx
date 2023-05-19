@@ -8,11 +8,11 @@ export default function Channel() {
     <>
       <div>channel banner</div>
       <p>channel : {channelId}</p>
-      <navigator>
+      <nav>
         <Link to={`/channel/${channelId}`}>홈</Link>
-        <Link>비디오</Link>
-        <Link>정보</Link>
-      </navigator>
+        <Link to={`/channel/${channelId}/videos`}>비디오</Link>
+        <Link to={`/channel/${channelId}/info`}>정보</Link>
+      </nav>
       <Outlet />
     </>
   );
