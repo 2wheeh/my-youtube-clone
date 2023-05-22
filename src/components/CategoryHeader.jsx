@@ -20,10 +20,16 @@ export default function CategoryHeader() {
   if (error) return <p>error</p>;
 
   return (
-    <nav>
-      <Link to="/home">전체</Link>
+    <nav className="pt-2 pb-8">
+      <Link className="m-2 p-2 rounded-md bg-zinc-600 text-lg" to="/home">
+        전체
+      </Link>
       {categories.slice(0, 5).map(item => (
-        <Link to={`/home/${item.id}`} key={item.id}>
+        <Link
+          className="m-1 p-2 rounded-md bg-zinc-600 text-lg"
+          to={`/home/${item.id}`}
+          key={item.id}
+        >
           {item.snippet.title}
         </Link>
       ))}

@@ -10,12 +10,14 @@ function App() {
   return (
     <>
       <SearchHeader />
-      <SideBar />
-      <YoutubeApiProvider>
-        <QueryClientProvider client={queryClient}>
-          <Outlet />
-        </QueryClientProvider>
-      </YoutubeApiProvider>
+      <div className="flex">
+        <SideBar />
+        <YoutubeApiProvider>
+          <QueryClientProvider client={queryClient}>
+            <Outlet />
+          </QueryClientProvider>
+        </YoutubeApiProvider>
+      </div>
     </>
   );
 }
