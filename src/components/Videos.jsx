@@ -13,7 +13,8 @@ export default function Videos() {
     data: videos,
   } = useQuery(
     ['videos', `${videoCategoryId}`],
-    () => youtube.mostPopularVideos(videoCategoryId),
+    () => youtube.getMostPopularVideos(videoCategoryId),
+
     { staleTime: 1000 * 60 * 5 } // 5 min
   );
 
@@ -23,8 +24,6 @@ export default function Videos() {
 
   return (
     <>
-      <p>list of videoCards</p>
-      <p>categoryId : {videoCategoryId}</p>
       {videos.map(video => (
         <VideoCard video={video} key={video.id} />
       ))}

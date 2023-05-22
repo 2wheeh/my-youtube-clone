@@ -9,7 +9,11 @@ export default class FakeYoutubeClient {
     );
   }
 
-  //   async channels() {
-  //     return axios.get('/data/channel.json');
-  //   }
+  async videoCategories() {
+    return axios.get(`/data/categories.json`);
+  }
+
+  async channels() {
+    return axios.get('/data/by-channelId.json');
+  }
 }

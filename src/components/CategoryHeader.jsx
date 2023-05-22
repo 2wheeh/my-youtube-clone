@@ -1,18 +1,17 @@
 import React from 'react';
 import { useQuery } from '@tanstack/react-query';
-import axios from 'axios';
 import { Link } from 'react-router-dom';
+import { useYoutubeApi } from '../context/YoutubeApiContext';
 
 export default function CategoryHeader() {
+  const { youtube } = useYoutubeApi();
   const {
     isLoading,
     error,
     data: categories,
   } = useQuery(
     ['videoCategories'],
-    () => {
-      return axios.get('/data/categories.json').then(res => res.data.items);
-    },
+    () => youtube.getCategories(),
     { staleTime: 1000 * 60 * 5 } // 5 min
   );
 
