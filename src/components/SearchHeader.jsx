@@ -48,7 +48,7 @@ export default function SearchHeader() {
           <BsSearch />
         </button>
       </form>
-      <button className="flex flex-row content-center whitespace-nowrap my-2 px-2 border-white border border-solid bg-black text-blue-400 rounded-l-full rounded-r-full text-lg ">
+      <button className="flex flex-row content-center whitespace-nowrap my-2 mr-4 px-2 border-white border border-solid bg-black text-blue-400 rounded-l-full rounded-r-full text-lg ">
         <RxAvatar className="text-2xl mt-1.5 mx-1" />
         <p className="text-md m-1">로그인</p>
       </button>

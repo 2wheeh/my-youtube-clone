@@ -3,6 +3,7 @@ import { useNavigate } from 'react-router-dom';
 import { BsDot } from 'react-icons/bs';
 import { useYoutubeApi } from '../context/YoutubeApiContext';
 import { useQuery } from '@tanstack/react-query';
+import { formatDate, parseTimeExpression, formatView } from '../util/format';
 
 export default function VideoCard({ video }) {
   const { id: videoId } = video;
@@ -30,6 +31,8 @@ export default function VideoCard({ video }) {
   } = useQuery(['channel', `${channelId}`], () =>
     youtube.getChannel(channelId)
   );
+
+  const parsedDuration = parseTimeExpression(duration);
 
   if (isLoading || error)
     return (
@@ -73,7 +76,7 @@ export default function VideoCard({ video }) {
           alt={title}
         />
         <p className="absolute bottom-1 right-1.5 text-xs font-semibold px-1 py-0.5 bg-black rounded-md">
-          {duration}
+          {parsedDuration}
         </p>
       </div>
       <div className="flex flex-row cursor-pointer" onClick={handleClick}>
@@ -90,10 +93,12 @@ export default function VideoCard({ video }) {
           </p>
           <div className="flex flex-row">
             <p className="whitespace-nowrap text-sm opacity-80">
-              조회수 {viewCount}
+              조회수 {formatView(viewCount)}회
             </p>
             <BsDot />
-            <p className="text-sm opacity-80">{publishedAt}</p>
+            <p className="text-sm opacity-80">
+              {formatDate(publishedAt, 'ko_KR')}
+            </p>
           </div>
         </div>
       </div>
