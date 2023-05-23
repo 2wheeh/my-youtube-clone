@@ -103,6 +103,7 @@ export default function VideoCard({ video }) {
         <div
           className="relative cursor-pointer"
           onMouseEnter={startPlayingThumbnail}
+          onMouseLeave={stopPlayingThumbnail}
         >
           <img
             className="w-full rounded-xl mb-4"
