@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useRef, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { BsDot } from 'react-icons/bs';
 import { useYoutubeApi } from '../context/YoutubeApiContext';
@@ -23,6 +23,9 @@ export default function VideoCard({ video }) {
   const [isReady, setIsReady] = useState(false);
   const [playedTime, setPlayedTime] = useState('00:00');
   const [timeStamp, setTimeStamp] = useState(0);
+  const [width, setWidth] = useState(320);
+
+  const playerRef = useRef();
 
   const navigate = useNavigate();
 
@@ -68,26 +71,29 @@ export default function VideoCard({ video }) {
 
   const handleResize = e => console.log(e);
 
+  window.addEventListener('resize', () => {
+    console.log(playerRef.current);
+  });
+
   if (isLoading || error) return <LoadingCard />;
 
   return (
     <li className="p-2">
       {!isReady && (
         <div
-          className="relative w-80 h-mid mb-4 rounded-xl bg-loading cursor-pointer"
+          className="w-full relative mb-4 aspect-video rounded-xl bg-loading cursor-pointer"
           onMouseEnter={startPlayingThumbnail}
           onMouseLeave={stopPlayingThumbnail}
         >
-          <div className="rounded-xl w-80 h-mid mb-4 bg-loading">
+          <div className="rounded-xl w-full  mb-4 aspect-video bg-loading">
             <img
-              className="rounded-xl"
+              className="rounded-xl w-full  aspect-video"
               onClick={handleClick}
               src={thumbnailURL}
               alt={title}
-              onResize={handleResize}
+              onResizeCapture={handleResize}
             />
           </div>
-
           <p className="absolute bottom-1 right-2.5 text-xs font-semibold px-1 py-0.5 bg-black rounded-md">
             {parsedDuration}
           </p>
@@ -98,6 +104,7 @@ export default function VideoCard({ video }) {
           className={isReady ? 'relative cursor-pointer' : 'invisible w-0 h-0'}
         >
           <ReactPlayer
+            ref={playerRef}
             className="w-full mb-4"
             onReady={handleOnReady}
             onProgress={handleProgress}
