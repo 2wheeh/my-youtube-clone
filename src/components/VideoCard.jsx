@@ -74,7 +74,7 @@ export default function VideoCard({ video }) {
     <li className="p-2">
       {!isReady && (
         <div
-          className="relative cursor-pointer"
+          className="relative w-80 h-mid mb-4 rounded-xl bg-loading cursor-pointer"
           onMouseEnter={startPlayingThumbnail}
           onMouseLeave={stopPlayingThumbnail}
         >
@@ -87,6 +87,7 @@ export default function VideoCard({ video }) {
               onResize={handleResize}
             />
           </div>
+
           <p className="absolute bottom-1 right-2.5 text-xs font-semibold px-1 py-0.5 bg-black rounded-md">
             {parsedDuration}
           </p>

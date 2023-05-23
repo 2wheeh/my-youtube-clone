@@ -7,8 +7,9 @@ module.exports = {
         brand: '#FF0000',
         loading: '#3F3F3F',
       },
-      width: {
-        mid: '7.5rem',
+
+      height: {
+        mid: '11.25rem',
       },
       // backgroundImage: {
       //   'loading-thumbnail': "url('/img/loading-thumbnail.png')",
