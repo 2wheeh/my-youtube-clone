@@ -10,6 +10,7 @@ import {
   formatPlayedTime,
 } from '../util/format';
 import ReactPlayer from 'react-player';
+import LoadingCard from './LoadingCard';
 
 export default function VideoCard({ video }) {
   const { id: videoId } = video;
@@ -65,37 +66,7 @@ export default function VideoCard({ video }) {
 
   const handleOnReady = () => setIsReady(true);
 
-  if (isLoading || error)
-    return (
-      <li className="p-2">
-        <div className="relative">
-          <img
-            className="w-full rounded-xl mb-4"
-            src="/img/loading-thumbnail.png"
-            alt=""
-          />
-        </div>
-        <div className="flex flex-row">
-          <img
-            className="w-10 h-10 rounded-full "
-            src="/img/loading-thumbnail.png"
-            alt=""
-          />
-          <div className="ml-2 w-full">
-            <img
-              className="mb-2 w-11/12 h-5 rounded-md"
-              src="/img/loading-thumbnail.png"
-              alt=""
-            />
-            <img
-              className="mb-2 w-9/12 h-5 rounded-md"
-              src="/img/loading-thumbnail.png"
-              alt=""
-            />
-          </div>
-        </div>
-      </li>
-    );
+  if (isLoading || error) return <LoadingCard />;
 
   return (
     <li className="p-2">
@@ -147,7 +118,6 @@ export default function VideoCard({ video }) {
             // width="100%"
             // height="100%"
           />
-
           <p className="absolute bottom-1 left-1.5 text-xs font-semibold">
             {playedTime} / {parsedDuration}
           </p>

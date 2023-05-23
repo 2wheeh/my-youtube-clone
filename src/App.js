@@ -7,18 +7,19 @@ import { YoutubeApiProvider } from './context/YoutubeApiContext';
 
 const queryClient = new QueryClient();
 
-
 function App() {
   return (
     <>
       <SearchHeader />
       <div className="flex">
         <SideBar />
-        <YoutubeApiProvider>
-          <QueryClientProvider client={queryClient}>
-            <Outlet />
-          </QueryClientProvider>
-        </YoutubeApiProvider>
+        <div className="flex-1">
+          <YoutubeApiProvider>
+            <QueryClientProvider client={queryClient}>
+              <Outlet />
+            </QueryClientProvider>
+          </YoutubeApiProvider>
+        </div>
       </div>
     </>
   );
