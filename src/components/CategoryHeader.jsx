@@ -20,7 +20,7 @@ export default function CategoryHeader() {
   if (error) return <p>error</p>;
 
   return (
-    <nav className="pt-2 pb-8">
+    <nav className="pt-2 pb-8 w-120">
       <Link className="m-2 p-2 rounded-md bg-zinc-600 text-lg" to="/home">
         전체
       </Link>
