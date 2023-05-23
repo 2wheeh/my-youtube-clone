@@ -5,6 +5,10 @@ module.exports = {
     extend: {
       colors: {
         brand: '#FF0000',
+        loading: '#3F3F3F',
+      },
+      width: {
+        mid: '7.5rem',
       },
       // backgroundImage: {
       //   'loading-thumbnail': "url('/img/loading-thumbnail.png')",

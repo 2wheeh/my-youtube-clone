@@ -19,20 +19,13 @@ export default function Videos() {
     { staleTime: 1000 * 60 * 5 } // 5 min
   );
 
-  if (isLoading || error)
-    return (
-      <ul className="grid grid-cols-1 px-12 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-5 gap-2 gap-y-4">
-        {Array(25).map(() => (
-          <LoadingCard />
-        ))}
-      </ul>
-    );
-
   return (
-    <ul className="grid grid-cols-1 px-12 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-5 gap-2 gap-y-4">
-      {videos.map(video => (
-        <VideoCard video={video} key={video.id} />
-      ))}
+    <ul className="grid grid-cols-1 px-12 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4  gap-2 gap-y-4">
+      {isLoading || error
+        ? Array(25)
+            .fill(null)
+            .map((_, i) => <LoadingCard key={i} />)
+        : videos.map(video => <VideoCard video={video} key={video.id} />)}
     </ul>
   );
 }

@@ -66,6 +66,8 @@ export default function VideoCard({ video }) {
 
   const handleOnReady = () => setIsReady(true);
 
+  const handleResize = e => console.log(e);
+
   if (isLoading || error) return <LoadingCard />;
 
   return (
@@ -76,13 +78,16 @@ export default function VideoCard({ video }) {
           onMouseEnter={startPlayingThumbnail}
           onMouseLeave={stopPlayingThumbnail}
         >
-          <img
-            className="w-full rounded-xl mb-4"
-            onClick={handleClick}
-            src={thumbnailURL}
-            alt={title}
-          />
-          <p className="absolute bottom-1 right-1.5 text-xs font-semibold px-1 py-0.5 bg-black rounded-md">
+          <div className="rounded-xl w-80 h-mid mb-4 bg-loading">
+            <img
+              className="rounded-xl"
+              onClick={handleClick}
+              src={thumbnailURL}
+              alt={title}
+              onResize={handleResize}
+            />
+          </div>
+          <p className="absolute bottom-1 right-2.5 text-xs font-semibold px-1 py-0.5 bg-black rounded-md">
             {parsedDuration}
           </p>
         </div>
