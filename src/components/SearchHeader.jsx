@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { ImYoutube } from 'react-icons/im';
 import { BsList, BsSearch } from 'react-icons/bs';
 import { RxAvatar } from 'react-icons/rx';
+
 import { Link, useNavigate, useParams } from 'react-router-dom';
 
 export default function SearchHeader() {
