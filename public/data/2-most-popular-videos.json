@@ -1,0 +1,1773 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "k_nt7jRY0oWcUe7vbkrO9xxceZo",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "uE_vdvCstnq2z9fdzw09b9gMXNg",
+      "id": "7KIr2HB1M4s",
+      "snippet": {
+        "publishedAt": "2023-05-11T11:00:08Z",
+        "channelId": "UCvJnb0ty7RpquJKouRBeEzQ",
+        "title": "브레이크 디스크 실험",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7KIr2HB1M4s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7KIr2HB1M4s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7KIr2HB1M4s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7KIr2HB1M4s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7KIr2HB1M4s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "픽플러스",
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "브레이크 디스크 실험",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT50S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "3687595",
+        "likeCount": "27373",
+        "favoriteCount": "0",
+        "commentCount": "1530"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "eqQ06kaUaNFaPOHmwOaSUv5NCl4",
+      "id": "BXqRpAioL5Q",
+      "snippet": {
+        "publishedAt": "2023-05-11T03:27:22Z",
+        "channelId": "UCcD5S_eqCCUe3I3k-2tRMIA",
+        "title": "오토바이 뒤에 탈때 (구독하면 정말 여친생김♡)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BXqRpAioL5Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BXqRpAioL5Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BXqRpAioL5Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BXqRpAioL5Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BXqRpAioL5Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "구독 누르기만 해도 소원 이루어짐👉",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "오토바이 뒤에 탈때 (구독하면 정말 여친생김♡)",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT11S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "3246101",
+        "likeCount": "8070",
+        "favoriteCount": "0",
+        "commentCount": "172"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "RRNe2kim3-abG8gQqfH_qy7JJLM",
+      "id": "Rol-ng1JDC0",
+      "snippet": {
+        "publishedAt": "2023-05-15T08:45:02Z",
+        "channelId": "UCqM3wLDDD0hLsBWAC3xwNkw",
+        "title": "중고차 강화해주는 확률업 대장장이",
+        "description": "#k7 #중고차 #shorts \n\n▶ 고준용 중고차 홈페이지: http://yong-car.com\n▶ 고준용 중고차 대표번호: 010 - 5262 - 9333",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Rol-ng1JDC0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Rol-ng1JDC0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Rol-ng1JDC0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Rol-ng1JDC0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Rol-ng1JDC0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "고준용 중고차",
+        "tags": [
+          "1000만원대 중고차",
+          "2000만원대 중고차",
+          "k7",
+          "제네시스쿠페",
+          "벤츠 amg",
+          "아반떼ad",
+          "윈스톰",
+          "상황극2인",
+          "중고차"
+        ],
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "중고차 강화해주는 확률업 대장장이",
+          "description": "#k7 #중고차 #shorts \n\n▶ 고준용 중고차 홈페이지: http://yong-car.com\n▶ 고준용 중고차 대표번호: 010 - 5262 - 9333"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT41S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "541885",
+        "likeCount": "22542",
+        "favoriteCount": "0",
+        "commentCount": "604"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "_n0nCNrSV-t5KCoJj9chNZc6c6E",
+      "id": "Qq6BHmW__6k",
+      "snippet": {
+        "publishedAt": "2023-05-13T11:16:01Z",
+        "channelId": "UCPbxBhcZMq8NMq0EuXxGuAQ",
+        "title": "찐부자들이 벤츠 AMG를 타는 이유 #shorts",
+        "description": "찐부자들이 벤츠 AMG를 타는 이유 #shorts \n\n중파의 중고차 사무실에서는 고객님들에게 차별화 된 애프터 서비스를 제공합니다!\n\n1. 한국자동차진단보증협회와 협약하여 정상가격보다 훨씬 저렴한 가격으로 최대1년까지 중고차 A/S가 가능합니다\n\n2.공임나라와 협약하여 전국 공임나라 센터에서 무상점검 및 엔진오일 쿠폰 등의 혜택을 받아보실 수 있습니다.\n\n3.구매하신 차량이 침수차량일 경우 200% 환불을 보장합니다.\n\n중파 인스타 : joong_pa\n\n중파 공식 사이트 : http://m.xn--299a7fv36e6lbb3goqn.com/\n                                 www.중고차파괴자.com\n\n오시는길 : 수원시 권선구 권선로 308-5 도이치오토월드 311호 중벤져스\n\n모든 문의 : 010-5899-3393 (부재시 문자 부탁드립니다)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Qq6BHmW__6k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Qq6BHmW__6k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Qq6BHmW__6k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Qq6BHmW__6k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Qq6BHmW__6k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "중고차파괴자",
+        "tags": ["#중고차", "중파", "중고차파괴자", "카푸어"],
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "찐부자들이 벤츠 AMG를 타는 이유 #shorts",
+          "description": "찐부자들이 벤츠 AMG를 타는 이유 #shorts \n\n중파의 중고차 사무실에서는 고객님들에게 차별화 된 애프터 서비스를 제공합니다!\n\n1. 한국자동차진단보증협회와 협약하여 정상가격보다 훨씬 저렴한 가격으로 최대1년까지 중고차 A/S가 가능합니다\n\n2.공임나라와 협약하여 전국 공임나라 센터에서 무상점검 및 엔진오일 쿠폰 등의 혜택을 받아보실 수 있습니다.\n\n3.구매하신 차량이 침수차량일 경우 200% 환불을 보장합니다.\n\n중파 인스타 : joong_pa\n\n중파 공식 사이트 : http://m.xn--299a7fv36e6lbb3goqn.com/\n                                 www.중고차파괴자.com\n\n오시는길 : 수원시 권선구 권선로 308-5 도이치오토월드 311호 중벤져스\n\n모든 문의 : 010-5899-3393 (부재시 문자 부탁드립니다)"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT43S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "545850",
+        "likeCount": "3240",
+        "favoriteCount": "0",
+        "commentCount": "159"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "sRusGjpgmbwgHiv9-Dl3rnIMUvo",
+      "id": "sW0J_bFn9Gs",
+      "snippet": {
+        "publishedAt": "2023-05-04T07:38:59Z",
+        "channelId": "UCNE1pYj5_Hmnaz1xnnJi_dQ",
+        "title": "경기 차량에만 있는 특수 보닛 잠금장치",
+        "description": "#shorts #lg헬로비전 #눈에띄는그녀들 #눈띄그 #이정은 #여성 #드리프트 #드라이버 #레이서 #레이싱 #드리프트드라이버 #브레이크 #튜닝 #자동차 #타이어 #차 #경주 #모터스포츠",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sW0J_bFn9Gs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sW0J_bFn9Gs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sW0J_bFn9Gs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sW0J_bFn9Gs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sW0J_bFn9Gs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "LG헬로비전 헬로tv",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "경기 차량에만 있는 특수 보닛 잠금장치",
+          "description": "#shorts #lg헬로비전 #눈에띄는그녀들 #눈띄그 #이정은 #여성 #드리프트 #드라이버 #레이서 #레이싱 #드리프트드라이버 #브레이크 #튜닝 #자동차 #타이어 #차 #경주 #모터스포츠"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT46S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "978809",
+        "likeCount": "3596",
+        "favoriteCount": "0",
+        "commentCount": "300"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "W3Ei006j4cFLk7qauu3tso_9o7k",
+      "id": "g2AO9S6NOMY",
+      "snippet": {
+        "publishedAt": "2023-05-12T04:22:54Z",
+        "channelId": "UC6QJowhz8WHwkKr1KeN7FWg",
+        "title": "30년 전 벤츠 미친 배기음",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/g2AO9S6NOMY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/g2AO9S6NOMY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/g2AO9S6NOMY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/g2AO9S6NOMY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/g2AO9S6NOMY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "신사용",
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "30년 전 벤츠 미친 배기음",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT24S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "671931",
+        "likeCount": "5626",
+        "favoriteCount": "0",
+        "commentCount": "62"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "kAnhAtK3sSI0pn7bCpNd-f7EECc",
+      "id": "7aCIiI5cJ2U",
+      "snippet": {
+        "publishedAt": "2023-05-15T07:29:35Z",
+        "channelId": "UC_gaUd0RTRlwyuAf-Tj9gPQ",
+        "title": "23살에 2억짜리 아우디R8 뽑았다고?? 뭐하는 동생이야 ㄷㄷ",
+        "description": "#shorts\n롸진성중고차:010-5085-1424\n(롸진성이 직접받습니다)\n사이트 : http://www.xn--oj4bv0n31d.com/카진성.com\n\n카카오톡채널 링크(상담전용)\nhttp://pf.kakao.com/_xjxetNK\n\n오시는길: 수원시 권선구 권선로 308-5 도이치 오토월드 464호\n\n카진성의 중고차 개꿀 매물 \nhttps://band.us/band/82112139\n\n차량협찬 및 광고 mc섭외[토토가 음향& 조명 & 클럽파티)섭외\n : wlstjd2629@hanmail.net \n                   \n카톡 및 전화번호 차량사진 \n평일/주말 \n일정되시는지 \n꼭 남겨주세요\n\n내외관리뷰 및 간단한 달리기 성능테스트 총 4시간 이내",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7aCIiI5cJ2U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7aCIiI5cJ2U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7aCIiI5cJ2U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7aCIiI5cJ2U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7aCIiI5cJ2U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "카진성",
+        "tags": [
+          "카진성",
+          "중고차",
+          "중고차파괴자",
+          "중카tv",
+          "중고차의모든것",
+          "부싼카"
+        ],
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "23살에 2억짜리 아우디R8 뽑았다고?? 뭐하는 동생이야 ㄷㄷ",
+          "description": "#shorts\n롸진성중고차:010-5085-1424\n(롸진성이 직접받습니다)\n사이트 : http://www.xn--oj4bv0n31d.com/카진성.com\n\n카카오톡채널 링크(상담전용)\nhttp://pf.kakao.com/_xjxetNK\n\n오시는길: 수원시 권선구 권선로 308-5 도이치 오토월드 464호\n\n카진성의 중고차 개꿀 매물 \nhttps://band.us/band/82112139\n\n차량협찬 및 광고 mc섭외[토토가 음향& 조명 & 클럽파티)섭외\n : wlstjd2629@hanmail.net \n                   \n카톡 및 전화번호 차량사진 \n평일/주말 \n일정되시는지 \n꼭 남겨주세요\n\n내외관리뷰 및 간단한 달리기 성능테스트 총 4시간 이내"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT54S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "239516",
+        "likeCount": "2265",
+        "favoriteCount": "0",
+        "commentCount": "108"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "siptnS8U0swrypnOavLBrCrGeAY",
+      "id": "bnjqGn_xgpA",
+      "snippet": {
+        "publishedAt": "2023-05-11T22:00:15Z",
+        "channelId": "UCH5U89kvHrVxxS80xpoOydw",
+        "title": "#1760. 세상에 이런 일이..ㅠ #shorts",
+        "description": "한문철TV 18878회. https://youtu.be/XRpzSsPmugc\n31862 영PD #shorts\n\n#한문철 #한문철TV #블랙박스 #블박영상 #교통사고 #교통사고영상 #traffic #accident #trafficaccident #car #caraccident #dashcam #blackbox",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bnjqGn_xgpA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bnjqGn_xgpA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bnjqGn_xgpA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bnjqGn_xgpA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bnjqGn_xgpA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "한문철 TV",
+        "tags": [
+          "한문철",
+          "과실비율",
+          "몇대몇",
+          "사고",
+          "교통사고",
+          "영상",
+          "블랙박스",
+          "블박",
+          "블박세",
+          "블랙박스로 본 세상",
+          "스스로닷컴",
+          "susulaw",
+          "car",
+          "traffic",
+          "accident",
+          "traffic accident",
+          "black box",
+          "dash cam",
+          "video"
+        ],
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "#1760. 세상에 이런 일이..ㅠ #shorts",
+          "description": "한문철TV 18878회. https://youtu.be/XRpzSsPmugc\n31862 영PD #shorts\n\n#한문철 #한문철TV #블랙박스 #블박영상 #교통사고 #교통사고영상 #traffic #accident #trafficaccident #car #caraccident #dashcam #blackbox"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT27S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "374458",
+        "likeCount": "3325",
+        "favoriteCount": "0",
+        "commentCount": "1012"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "1lA53J9YHJ1pcys5uKTFYucAPWY",
+      "id": "hIMjg4uc-uk",
+      "snippet": {
+        "publishedAt": "2023-05-02T10:11:10Z",
+        "channelId": "UCBt--zujWI-_OXzqs4oVjYA",
+        "title": "주차한 삼발바이크를 가로주차로 막아논 차량,못나가는 남성 충격적인 방법을 쓰는데 #cctv",
+        "description": "#shorts  \n여러분들께서 구앵커에게 추천할 영상이 있으시다면 \n레드써클 원PD 이메일 redcircleonepd@naver.com으로 보내주세요\n선정된 영상은 레드써클 채널에 \n업로드하도록 하겠습니다\n늘 관심가져주시는 여러분 정말 감사드립니다",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hIMjg4uc-uk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hIMjg4uc-uk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hIMjg4uc-uk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hIMjg4uc-uk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hIMjg4uc-uk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "레드써클 RED CIRCLE",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "주차한 삼발바이크를 가로주차로 막아논 차량,못나가는 남성 충격적인 방법을 쓰는데 #cctv",
+          "description": "#shorts  \n여러분들께서 구앵커에게 추천할 영상이 있으시다면 \n레드써클 원PD 이메일 redcircleonepd@naver.com으로 보내주세요\n선정된 영상은 레드써클 채널에 \n업로드하도록 하겠습니다\n늘 관심가져주시는 여러분 정말 감사드립니다"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT37S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "3125756",
+        "likeCount": "13953",
+        "favoriteCount": "0",
+        "commentCount": "560"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "LwrJnDwl1XchevIhMRxyJH0t91M",
+      "id": "hhjCHEBm7rY",
+      "snippet": {
+        "publishedAt": "2023-05-18T10:09:00Z",
+        "channelId": "UC7zSFbp9Y3SOEEAh1PAmjgg",
+        "title": "미니쿠퍼 이쁘다고 함부로 절대사면 안됩니다",
+        "description": "#shorts #중카TV #중고차 #중고차파괴자 #부싼카\n\n사이트 : http://www.xn--tv-9z9j31p.com/\n              www.중카tv.com\n\n오시는길 : 수원시 권선구 권선로 308-5 도이치오토월드\n                   3층 311호 중벤져스\n\n모든 문의 : 010-6888-3771",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hhjCHEBm7rY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hhjCHEBm7rY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hhjCHEBm7rY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hhjCHEBm7rY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hhjCHEBm7rY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "중카TV",
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "미니쿠퍼 이쁘다고 함부로 절대사면 안됩니다",
+          "description": "#shorts #중카TV #중고차 #중고차파괴자 #부싼카\n\n사이트 : http://www.xn--tv-9z9j31p.com/\n              www.중카tv.com\n\n오시는길 : 수원시 권선구 권선로 308-5 도이치오토월드\n                   3층 311호 중벤져스\n\n모든 문의 : 010-6888-3771"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT44S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "78330",
+        "likeCount": "1464",
+        "favoriteCount": "0",
+        "commentCount": "93"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Qb6KhLeVMbfrBmGjPdAS9enUCkU",
+      "id": "TDlncEwcyOA",
+      "snippet": {
+        "publishedAt": "2023-05-07T23:30:46Z",
+        "channelId": "UCcIVw4ooPxT5XqAH_FelEVA",
+        "title": "평택시흥고속도로 투스카니 고의사고",
+        "description": "고속도로에서 고의로 교통사고를 낸 남자가 있었습니다.\n\n2018년, 고속도로를 달리던 코란도 승용차 차주가 의식을 잃고 쓰러집니다.\n\n중앙분리대를 긁으며 4분 넘게 주행하는 코란도 승용차. 자칫 잘못하면 고속도로에서 큰 사고로 이어질 수 있는 상황이었습니다.\n코란도의 뒤를 지나던 투스카니 운전자 한영탁씨는 옆으로 다가와 경적을 울렸지만 운전석에서는 반응이 없었습니다.\n\n운전자가 의식을 잃었다고 판단하고, 그는 코란도의 앞으로 추월한 뒤, 천천히 브레이크를 밟습니다. 코란도가 자기 차의 후미를 일부러 들이받게 만든 것입니다. 이 방법으로 차를 세우는데 성공합니다.\n\n한씨는 주변 시민들로부터 망치를 건네 받아 조수석 유리창을 깨뜨렸고, 코란도 승용차 차주를 빼내 응급처치를 시도합니다. \n곧 그는 병원으로 이송되었고, 의식을 되찾았습니다.\n\n고의로 교통사고를 낸 한영탁씨에게 경찰은 사고 책임을 묻지 않았습니다.\n또한 현대자동차에서는 자동차 수리를 무상으로 해 주겠다고 제안했으나, 한씨는 별것 아니라며 거절합니다. 이에 현대자동차에서는 벨로스터 차량을 무료로 기부했습니다.\n\n언론사와의 인터뷰에서 한씨는 운전자를 구해야 한다는 생각 뿐이었다며, 담담하게 당시 상황에 대해 이야기 했습니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TDlncEwcyOA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TDlncEwcyOA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TDlncEwcyOA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TDlncEwcyOA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TDlncEwcyOA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "드-보크",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "평택시흥고속도로 투스카니 고의사고",
+          "description": "고속도로에서 고의로 교통사고를 낸 남자가 있었습니다.\n\n2018년, 고속도로를 달리던 코란도 승용차 차주가 의식을 잃고 쓰러집니다.\n\n중앙분리대를 긁으며 4분 넘게 주행하는 코란도 승용차. 자칫 잘못하면 고속도로에서 큰 사고로 이어질 수 있는 상황이었습니다.\n코란도의 뒤를 지나던 투스카니 운전자 한영탁씨는 옆으로 다가와 경적을 울렸지만 운전석에서는 반응이 없었습니다.\n\n운전자가 의식을 잃었다고 판단하고, 그는 코란도의 앞으로 추월한 뒤, 천천히 브레이크를 밟습니다. 코란도가 자기 차의 후미를 일부러 들이받게 만든 것입니다. 이 방법으로 차를 세우는데 성공합니다.\n\n한씨는 주변 시민들로부터 망치를 건네 받아 조수석 유리창을 깨뜨렸고, 코란도 승용차 차주를 빼내 응급처치를 시도합니다. \n곧 그는 병원으로 이송되었고, 의식을 되찾았습니다.\n\n고의로 교통사고를 낸 한영탁씨에게 경찰은 사고 책임을 묻지 않았습니다.\n또한 현대자동차에서는 자동차 수리를 무상으로 해 주겠다고 제안했으나, 한씨는 별것 아니라며 거절합니다. 이에 현대자동차에서는 벨로스터 차량을 무료로 기부했습니다.\n\n언론사와의 인터뷰에서 한씨는 운전자를 구해야 한다는 생각 뿐이었다며, 담담하게 당시 상황에 대해 이야기 했습니다."
+        }
+      },
+      "contentDetails": {
+        "duration": "PT58S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "790776",
+        "likeCount": "13757",
+        "favoriteCount": "0",
+        "commentCount": "641"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "VIGGEt7b9nq0GywVXDpLfBDwjOs",
+      "id": "WvRO9Xs8rAY",
+      "snippet": {
+        "publishedAt": "2023-05-04T09:30:08Z",
+        "channelId": "UCf0kryoa2l_NpS8LRCr2BSw",
+        "title": "자동차 브랜드 vs 대형트럭",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WvRO9Xs8rAY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WvRO9Xs8rAY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WvRO9Xs8rAY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WvRO9Xs8rAY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WvRO9Xs8rAY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "와리가리 l WARIGARI",
+        "tags": [
+          "아세토코르사",
+          "와인딩",
+          "토게",
+          "심레이싱",
+          "시뮬레이션",
+          "레이싱게임",
+          "레이싱",
+          "오픈월드",
+          "자동차 게임",
+          "자동차",
+          "포르쉐",
+          "도요타",
+          "닛산",
+          "포르자",
+          "호라이즌",
+          "포르자 호라이즌",
+          "Assetto corsa",
+          "Forza Horizon",
+          "forza",
+          "Toyota",
+          "porsche",
+          "nissan",
+          "gtr",
+          "touge",
+          "touge life",
+          "Akina",
+          "Akagi",
+          "아키나",
+          "아카기",
+          "이니셜D",
+          "Initial d",
+          "튜닝카",
+          "부가티",
+          "부가티 시론",
+          "시론",
+          "Bugatti",
+          "Bugatti chiron",
+          "chiron",
+          "슈퍼카",
+          "드리프트",
+          "911",
+          "992",
+          "GTR",
+          "GTR니스모",
+          "GTR Nismo",
+          "Nismo",
+          "simracing",
+          "골프",
+          "골프 8세대",
+          "골프 R",
+          "Golf",
+          "Volkswagen",
+          "폭스바겐",
+          "Golf R",
+          "Golf Mk8",
+          "s2000",
+          "혼다",
+          "honda",
+          "inner wheel lift",
+          "ae86",
+          "r32",
+          "tesla",
+          "model s",
+          "miata",
+          "mx5",
+          "m2",
+          "m2cs",
+          "m4",
+          "m3",
+          "수프라",
+          "북악스카이웨이",
+          "dodge",
+          "viper",
+          "캐스퍼",
+          "현대",
+          "casper",
+          "hyundai"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "자동차 브랜드 vs 대형트럭",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT28S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2436393",
+        "likeCount": "9328",
+        "favoriteCount": "0",
+        "commentCount": "1646"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "YLdN0cnyKri6VQ3uf2WTFbIlfjE",
+      "id": "Cl5Wz1YnNns",
+      "snippet": {
+        "publishedAt": "2023-05-15T07:30:03Z",
+        "channelId": "UCiubh7VqeQxJ_ejOFP0Cgqw",
+        "title": "어떤 녀석이 나한테 커피를 던졌어. 아주 신선한 커피를 That's Refreshing #shorts",
+        "description": "#맨인블박 #블랙박스 #dashcam #도른자",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Cl5Wz1YnNns/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Cl5Wz1YnNns/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Cl5Wz1YnNns/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Cl5Wz1YnNns/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Cl5Wz1YnNns/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "맨인블박",
+        "tags": [
+          "Dash Cam",
+          "DashCam",
+          "Driving Fails",
+          "driving",
+          "맨인블박",
+          "블랙박스로 본 세상",
+          "블랙박스로본세상@모닝와이드",
+          "맨인블랙박스",
+          "모닝와이드",
+          "SBS",
+          "sbs",
+          "1차로",
+          "정속주행",
+          "추월차로",
+          "추월",
+          "커피",
+          "낙하물"
+        ],
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "어떤 녀석이 나한테 커피를 던졌어. 아주 신선한 커피를 That's Refreshing #shorts",
+          "description": "#맨인블박 #블랙박스 #dashcam #도른자"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT37S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "176202",
+        "likeCount": "883",
+        "favoriteCount": "0",
+        "commentCount": "262"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "AqmBxvwuX1duPQRNp3Ec_qXPTVU",
+      "id": "iQN1vQ6GzCk",
+      "snippet": {
+        "publishedAt": "2023-05-09T06:00:13Z",
+        "channelId": "UCSuhLNKQsW0-_JtjzIumbvA",
+        "title": "바퀴 3개로 운전한 외국 김여사님 ㄷㄷ #자동차 #shorts",
+        "description": "채널에 가입하여 혜택을 누려보세요.\nhttps://www.youtube.com/channel/UCSuhLNKQsW0-_JtjzIumbvA/join\n\n🔍멤버십 가입 바로가기 : https://bit.ly/3rwFtoxs\n🔍시승차 협찬하기 : https://bit.ly/3wRS3lw\n🔍오토포스트 제보하기 : https://bit.ly/3DsRalO\n🔍오토포스트 카붐몰 : http://carboomstore.com​​​​​​​​​​​​​​​​\n\n오토포스트의 모든 콘텐츠는 저작권법의 보호를 받은 바,                               \n무단 전재, 복사, 배포 등을 금합니다.                               \nCopyright by 오토포스트 Co., Ltd. All Rights Reserved.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iQN1vQ6GzCk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iQN1vQ6GzCk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iQN1vQ6GzCk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iQN1vQ6GzCk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iQN1vQ6GzCk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "오토포스트 AUTOPOST",
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "바퀴 3개로 운전한 외국 김여사님 ㄷㄷ #자동차 #shorts",
+          "description": "채널에 가입하여 혜택을 누려보세요.\nhttps://www.youtube.com/channel/UCSuhLNKQsW0-_JtjzIumbvA/join\n\n🔍멤버십 가입 바로가기 : https://bit.ly/3rwFtoxs\n🔍시승차 협찬하기 : https://bit.ly/3wRS3lw\n🔍오토포스트 제보하기 : https://bit.ly/3DsRalO\n🔍오토포스트 카붐몰 : http://carboomstore.com​​​​​​​​​​​​​​​​\n\n오토포스트의 모든 콘텐츠는 저작권법의 보호를 받은 바,                               \n무단 전재, 복사, 배포 등을 금합니다.                               \nCopyright by 오토포스트 Co., Ltd. All Rights Reserved."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT30S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "596862",
+        "likeCount": "2100",
+        "favoriteCount": "0",
+        "commentCount": "185"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "QRkd-4ifPEK5ADgfESQ8YcN41fw",
+      "id": "LM_29yJXVkc",
+      "snippet": {
+        "publishedAt": "2023-05-04T12:56:13Z",
+        "channelId": "UCaFn4DD0-iKZokI5Y6vJ3cA",
+        "title": "tire factory workers #stevedore #Transportation",
+        "description": "The workers packed the tires together so that they could be loaded more when they were transported.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LM_29yJXVkc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LM_29yJXVkc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LM_29yJXVkc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LM_29yJXVkc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LM_29yJXVkc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "World's factory",
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "tire factory workers #stevedore #Transportation",
+          "description": "The workers packed the tires together so that they could be loaded more when they were transported."
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT12S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "22435957",
+        "likeCount": "161354",
+        "favoriteCount": "0",
+        "commentCount": "1231"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "iNoq0pJyPN9K8RBHJ2h0TgOP29o",
+      "id": "v1Myyfgqolo",
+      "snippet": {
+        "publishedAt": "2023-05-09T00:17:28Z",
+        "channelId": "UCnUiuPW-53XOwBYiyJFLRug",
+        "title": "포르쉐 차주의 생각과 현실의 차이 ㅋㅋ",
+        "description": "#포르쉐 #포르쉐중고차 #카푸어",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/v1Myyfgqolo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/v1Myyfgqolo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/v1Myyfgqolo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/v1Myyfgqolo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/v1Myyfgqolo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "예스카 중고차,신차 정보",
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "포르쉐 차주의 생각과 현실의 차이 ㅋㅋ",
+          "description": "#포르쉐 #포르쉐중고차 #카푸어"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT56S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "703062",
+        "likeCount": "4111",
+        "favoriteCount": "0",
+        "commentCount": "349"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "tbFj25ofOxrvuKFwdTlXWSnhk2U",
+      "id": "N6s3qrvP4E8",
+      "snippet": {
+        "publishedAt": "2023-05-14T11:45:01Z",
+        "channelId": "UCChdwfg0T9qJd_vdGFMTiBg",
+        "title": "평지에서 주차브레이크 해야 된다? 하면 안 된다? ( 의외로 많은 분들이 차를 망가뜨리고 있습니다 )",
+        "description": "● 영상 속 반말은 촬영과 편집을 담당하는 동튜브에게 설명하는 컨셉이니 이해부탁드립니다.\n\n● 영상을 보시고 혹시 더 궁금한게 있으시면 댓글 부탁드립니다.\n\n#운전상식 #자동차상식 #자동차관리 #shorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/N6s3qrvP4E8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/N6s3qrvP4E8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/N6s3qrvP4E8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/N6s3qrvP4E8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/N6s3qrvP4E8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "차업차득",
+        "tags": [
+          "자동차 상식",
+          "차량 상식",
+          "자동차 관리",
+          "차량 관리",
+          "주차브레이크",
+          "자동차 주차",
+          "자동차 기어",
+          "자동차 파킹",
+          "파킹브레이크",
+          "브레이크",
+          "운전 상식"
+        ],
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "평지에서 주차브레이크 해야 된다? 하면 안 된다? ( 의외로 많은 분들이 차를 망가뜨리고 있습니다 )",
+          "description": "● 영상 속 반말은 촬영과 편집을 담당하는 동튜브에게 설명하는 컨셉이니 이해부탁드립니다.\n\n● 영상을 보시고 혹시 더 궁금한게 있으시면 댓글 부탁드립니다.\n\n#운전상식 #자동차상식 #자동차관리 #shorts"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT1M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "181401",
+        "likeCount": "1767",
+        "favoriteCount": "0",
+        "commentCount": "128"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ThjjbcltB4P0Ty7jkCY8RtfFtOU",
+      "id": "qyceZfs-xcQ",
+      "snippet": {
+        "publishedAt": "2023-05-15T02:00:14Z",
+        "channelId": "UC2Gbq_eDqfrwKNk1nF-d_mQ",
+        "title": "잘가라~잘가~ #블랙박스 #차사고 #car #자동차 #주차 #접촉사고 #졸음운전 #미끄러짐 #오토바이",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qyceZfs-xcQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qyceZfs-xcQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qyceZfs-xcQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qyceZfs-xcQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qyceZfs-xcQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "E.C 튜브",
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "잘가라~잘가~ #블랙박스 #차사고 #car #자동차 #주차 #접촉사고 #졸음운전 #미끄러짐 #오토바이",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT15S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "178941",
+        "likeCount": "529",
+        "favoriteCount": "0",
+        "commentCount": "24"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "OSUgL2f-XOgmfJmzVPVnIJ5VboA",
+      "id": "JtGgbXv5fGY",
+      "snippet": {
+        "publishedAt": "2023-05-06T09:22:00Z",
+        "channelId": "UCEe_CMZMc409M8S9qvsU0hQ",
+        "title": "대부분의 차선변경 사고 ( 꼭 보세요 ! )",
+        "description": "차선 변경 사고 중 제일 많이 일어나는 상황입니다.\n\n1차로는 뻥 뚫려있고\n\n2차로는 매우 심한 정체 중 일 때,\n\n정체 중인 차로에서는 차가 바로 붙어있기 때문에,\n\n1차로에서 빠르게 오고 있는 차량이 안 보입니다.\n\n왜? 있는데 안 보이는 게 아니라,\n\n아직 가까이 안 와서 안 보이는 거예요\n\n근데, 그걸 모르는 초보 운전자분들은,\n\n진짜 차가 없는 거 같으니까\n\n차선 변경을 시도합니다.\n\n그럼 원활하게 뚫린 차로에서\n\n조금 빠르게 달리고 있는 차량 입장에서는\n\n갑자기 옆에서 차량이 튀어나오는 겁니다.\n\n베테랑 운전자들은, 갑자기 차선 변경을 할 것까지 생각해서\n\n속도를 줄이고, 방어운전 그리고 옆 차선을 주시하면서\n\n운전하지만, 베테랑 역시도 쉽지 않은 상황입니다.\n\n꼭 유의하셔서 방어운전하셨으면\n\n좋겠습니다! 매우 위험한 상황입니다.\n\n그리고, 영상에서 차량은 빠르게 보이지만,\n\n저는 매우 신경 쓰면서 방어운전하였습니다.\n\n항상 감사합니다!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JtGgbXv5fGY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JtGgbXv5fGY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JtGgbXv5fGY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JtGgbXv5fGY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JtGgbXv5fGY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "너도 운전",
+        "tags": [
+          "차선변경사고",
+          "끼어들기사고",
+          "끼어들기 잘하는법",
+          "차선변경 잘하는법",
+          "사이드미러 잘 보는법",
+          "사이드 미러 조절하는법",
+          "사이드미러 각도조절",
+          "방어운전",
+          "초보운전",
+          "운전꿀팁",
+          "도로연수",
+          "운전연수",
+          "교통사고 블랙박스",
+          "한문철tv",
+          "운전",
+          "운전브이로그"
+        ],
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "대부분의 차선변경 사고 ( 꼭 보세요 ! )",
+          "description": "차선 변경 사고 중 제일 많이 일어나는 상황입니다.\n\n1차로는 뻥 뚫려있고\n\n2차로는 매우 심한 정체 중 일 때,\n\n정체 중인 차로에서는 차가 바로 붙어있기 때문에,\n\n1차로에서 빠르게 오고 있는 차량이 안 보입니다.\n\n왜? 있는데 안 보이는 게 아니라,\n\n아직 가까이 안 와서 안 보이는 거예요\n\n근데, 그걸 모르는 초보 운전자분들은,\n\n진짜 차가 없는 거 같으니까\n\n차선 변경을 시도합니다.\n\n그럼 원활하게 뚫린 차로에서\n\n조금 빠르게 달리고 있는 차량 입장에서는\n\n갑자기 옆에서 차량이 튀어나오는 겁니다.\n\n베테랑 운전자들은, 갑자기 차선 변경을 할 것까지 생각해서\n\n속도를 줄이고, 방어운전 그리고 옆 차선을 주시하면서\n\n운전하지만, 베테랑 역시도 쉽지 않은 상황입니다.\n\n꼭 유의하셔서 방어운전하셨으면\n\n좋겠습니다! 매우 위험한 상황입니다.\n\n그리고, 영상에서 차량은 빠르게 보이지만,\n\n저는 매우 신경 쓰면서 방어운전하였습니다.\n\n항상 감사합니다!"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT28S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1291470",
+        "likeCount": "6096",
+        "favoriteCount": "0",
+        "commentCount": "822"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "A1vnY8wlAXJmuj_fyV22JFSYL8k",
+      "id": "iCIq_XbFjp4",
+      "snippet": {
+        "publishedAt": "2023-05-05T19:19:15Z",
+        "channelId": "UCrly-h5A0493f7lu8wOIq4g",
+        "title": "centro biela tandem #hendrickson",
+        "description": "Mira tambien:\nENSAMBLAR RODILLO NUEVO A SPICK DIFERENCIAL CON ARANDELA AJUSTE ALTURA\nhttps://youtube.com/live/G4pKYmdshzM\nREPARACION DE UNA BALLESTA, HOJA DE MUELLE O RESORTE DE UN FORD CARGO 815, CON LA TECNICA DE HELCO\nhttps://youtube.com/live/tC3cIs8v_eM\nCOMANDO CAMBIOS NISSAN MT 3500 , RESTAURAR SOPORTE GUAYAS , CAMBIO DE TRAMO DE LAMINA, FIGURADA\nhttps://youtube.com/live/QJlXjw7goSA\nRECORTAR EJE DELANTERO DE CHEVROLET SUPER BRIGADIER PARA ADAPTAR CAMION GRUA INTERNATIONAL MOD: 1955\nhttps://youtube.com/live/wqT4DFE1sos\nPROCESO COMPLETO DE ADAPTACION ANILLO EATON 900 EJE TRASERO A HAUSEN ROCKWELL\nhttps://youtube.com/live/yt8tlku6TbQ\nCOMO CAMBIAR A UN CARDAN DE 4 PULGADAS UN TRAMO ROTO DE 20 CMS\nhttps://youtube.com/live/SrXlajWgNQE\nFabricar Barra Dirección eje delantero International DT466\nhttps://youtube.com/live/WkH5IhSR5gw\nCAMBIAR UN YOKY DE CARDAN EN TORNO,\nhttps://youtube.com/live/7val8MSLIQ8\nCambio Rodillo Base Soporte Vancloth DT408 International\nhttps://youtube.com/live/yPDCWeK22f0\nPrueba de Extracción Rodillos Tren Fijo Con Guillotina En Prensa https://youtube.com/live/pRq-xnYh7SE\nCambio Bujes En Prensa Hidraulica Paquete Muelles Kenworth https://youtube.com/live/O7Fr7Q24Kxw\nSacar Trozo Tornillo Roto Porta Mordaza, Freno Disco, Nissan MT 3000\nhttps://youtube.com/live/tK5ShIyWw6Q\nFabricación Extractor (paso a paso ), Maza Ejes Delanteros Y traseros\nhttps://youtube.com/live/pQ0LcajI2VM\n\nREPARACION DE EJES TRASEROS, HAUSEN\nREPARACION DE EJES DELANTERO, VIGAS O TROQUES\nREPARACION DE BOCINES O MASAS\nREPARACION DE CHASIS VEHICULOS CARGA PESADA\nFABRICACION DE VOLCOS\nADAPTACIONES DE BOTELLAS DE DIRECCION\nFABRICACION DE BARRAS DIRECCIONALES\nFABRICACION DE FRENOS O BLOQUEADORES PARA FAN CLUTH O TERMICO DE VENTILADOR\nCAMBIO DE OJOS EJES DELANTEROS\nCAMBIO DE PUNTAS A EJE TRASEROS\nADAPTACION DE SOPORTES MUELLES \nFABRICACION DE CARDANES PARA BOMBAS HIDRAULICAS DE LEVANTE VOLCOS\nREPARACION Y REFORZAMIENTO DE ESTRUCTURA VOLCO\nREPARACION DE COMANDOS CAMBIOS FORD CARGO 1721\nREPARACION DE BUJES Y PASADORES A BISAGRAS PUESTAS\nFABRICACION DE PUENTE GRUA\nRECORTAR EJES DELANTEROS\nREFORZAR CON PLATINA EJE TRASERO\nFABRICAR SOPORTE FAN CLUTH NEUMATICO\nALINEAR EN PRENSA HIDRAULICA CAMBER DE EJE DELANTERO\nALINEAR EN PRENSA HIDRAULICA CAMBER DE EJE TRAILER\nALINERAR EN PRENSA HIDRAULICA CAMBER DE EJE TRASEROS\nFABRICAR TAPAS DE VOLCOS\nFABRICAR SISTEMA SEGUROS A COMPUERTAS VOLCO\nFABRICAR CUBRE CABINAS A VOLCOS\nFABRICAR SISTEMA DE AUTO CARPADO VOLCOS MECANICO\nFABRICAR SISTEMA DE ELEVA COMPUERTA A VOLCO\nADAPTAR Y FABRICAR ROSCA PARA TROMPO TEMPERATURA SISTEMA FAN CLUHT NEUMATICO \nPERFORACIONES CON TALADRO DE BASE MAGNETICA\nFABRICACIO DE ROSCAS CON MACHUELOS Y VOLVEDOR\nREPARACION Y FABRICACION DE EJE CON ESTRIA Y ROSCA, BASES SOPORTES EJE CON BUJE DE NAYLON A SISTEMA LIMPIA VIDRIOS NISSAN MT 3000\nFABRICAION DE SISTEMA LEVANTE DE PORTA REPUESTO A CAMIONES EN PARTE FINAL CENTRO CHASIS \nADPATACION DE PORTA REPUESTO LATERAL A CHASIS VOLQUETAS\nREPARACION DE SUPERFICIES DE FIFERENCIALES\nCAMBIO DE RODILLOS SPICK TRANSMISIONES\nFABRICACION DE ROTOS CONICOS PARA TERMINALES EN BRAZOS DIRECCIONALES DE EJES DELANTEROS\nFABRICACION DE ADPATADORES DE CUADRANTES DE COPAS DE IMPACTO \nUSO DE LLAVES NEUMATICAS\nFABRICACION Y ENSAMBLE DE BOMBAS HIDRAULICAS ELECTICAS\nUSO DE BOMBA HIDRAULICA NEUMATICA \nUSO DE GATOS HIDRAULICOS PORTA POWER\nFABRICACION DE ROTOS CON BROCAS ESPECIALES CONICAS\nFABRICACION DE ESTANTERIA EN ANGULOS\nRESTAURAR DIAMETROS PUESTOS BUJES A LEVAS FRENO\nSOLDAR HOJAS DE RESORTE CON LA TECNICA DE TAINCO\nPERFORAR HOJAS DE RESORTE\nRECORTAR EN TRONZADORA HOJAS DE RESORTE\nREPARAR BARRAS DE CAMBIOS FULLLER\nCAMBIO PIÑONES TREN FIJO EN PRENSA HIDRAULICA \nRELLENAR PUESTO BALINERA PROPULSOR FORD CARGO 1721\nCAMBIO DE BUJES PUNTA Y CENTRALES SISTEMA SUSPENCION HENDRICKSON\nADAPTACION DE CAPSULAS CORBATIN A BUJES TRADICIONES HENDRICKSON\nREFORZAR Y REPARAR SILLINES PAQUETE DE MUELLES SISTEMA SUSPENCION HENDRICKSON\nCAMBIO DE BUJES A BARRAS TENSORAS SISTEMA SUSPENCION HENDRICKSON\nREPARACION DE TODO TIPO DE TERMINALES DIRECCIONALES VEHICULOS DE CARGA PESADA\nSOLDADURAS EN MATERIAL DE ALUMINIO CON ELECTRODO\nFABRICACION DE LLAVES PARA TUERCAS PUNTAS EJES TRASEROS \nADAPTACION EN CHASIS DE MOTORES DIESEL CON SOPORTERIA\nCAMBIO DE ESTRIAS CENTRO A YUGOS O YOKES CAJAS FULLER O DIFEERENCIALES\nCAMBIO DE YUGOS O YOKYS A CARDANES EN TORNO\nRECORTAR O LARGAR TUBOS DE CARDAN DE DIREFERENTES DIAMETROS EN TORNO\nADPATACION DE ANILLOS CARRIER TIPO 900 EATON EN EJE TRASEROS DE OTRAS MARCAS\n#borgwarner.   #international #dodge #ford @fordcargo #chevrolet #hino\n#foton #fuller #eaton #meritor #spicer",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iCIq_XbFjp4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iCIq_XbFjp4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iCIq_XbFjp4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iCIq_XbFjp4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iCIq_XbFjp4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "HELCO [ REPARACION DE VEHICULOS DE CARGA  ]",
+        "tags": [
+          "helco",
+          "Suspension",
+          "cardan",
+          "cambio yugo",
+          "eje mando",
+          "cambio balinera piñon ataque",
+          "reparacion cajas fuller",
+          "eje meritor",
+          "eje eaton",
+          "eje spicer",
+          "eje rockwell",
+          "reparacion semieje",
+          "cabio brida",
+          "cambio baleros",
+          "pulido porta engranes",
+          "cambio pin maestro",
+          "arbol de transmicion",
+          "palier",
+          "cambio juntas cardan",
+          "pivote de articulacion",
+          "cambio bujes mango direccion",
+          "reparacion rotula",
+          "viga",
+          "reparacion muñon",
+          "brazo curvo",
+          "brazo ackerman",
+          "cambio perno maestro",
+          "rectificar tambor",
+          "tainco",
+          "birlo"
+        ],
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "es",
+        "localized": {
+          "title": "centro biela tandem #hendrickson",
+          "description": "Mira tambien:\nENSAMBLAR RODILLO NUEVO A SPICK DIFERENCIAL CON ARANDELA AJUSTE ALTURA\nhttps://youtube.com/live/G4pKYmdshzM\nREPARACION DE UNA BALLESTA, HOJA DE MUELLE O RESORTE DE UN FORD CARGO 815, CON LA TECNICA DE HELCO\nhttps://youtube.com/live/tC3cIs8v_eM\nCOMANDO CAMBIOS NISSAN MT 3500 , RESTAURAR SOPORTE GUAYAS , CAMBIO DE TRAMO DE LAMINA, FIGURADA\nhttps://youtube.com/live/QJlXjw7goSA\nRECORTAR EJE DELANTERO DE CHEVROLET SUPER BRIGADIER PARA ADAPTAR CAMION GRUA INTERNATIONAL MOD: 1955\nhttps://youtube.com/live/wqT4DFE1sos\nPROCESO COMPLETO DE ADAPTACION ANILLO EATON 900 EJE TRASERO A HAUSEN ROCKWELL\nhttps://youtube.com/live/yt8tlku6TbQ\nCOMO CAMBIAR A UN CARDAN DE 4 PULGADAS UN TRAMO ROTO DE 20 CMS\nhttps://youtube.com/live/SrXlajWgNQE\nFabricar Barra Dirección eje delantero International DT466\nhttps://youtube.com/live/WkH5IhSR5gw\nCAMBIAR UN YOKY DE CARDAN EN TORNO,\nhttps://youtube.com/live/7val8MSLIQ8\nCambio Rodillo Base Soporte Vancloth DT408 International\nhttps://youtube.com/live/yPDCWeK22f0\nPrueba de Extracción Rodillos Tren Fijo Con Guillotina En Prensa https://youtube.com/live/pRq-xnYh7SE\nCambio Bujes En Prensa Hidraulica Paquete Muelles Kenworth https://youtube.com/live/O7Fr7Q24Kxw\nSacar Trozo Tornillo Roto Porta Mordaza, Freno Disco, Nissan MT 3000\nhttps://youtube.com/live/tK5ShIyWw6Q\nFabricación Extractor (paso a paso ), Maza Ejes Delanteros Y traseros\nhttps://youtube.com/live/pQ0LcajI2VM\n\nREPARACION DE EJES TRASEROS, HAUSEN\nREPARACION DE EJES DELANTERO, VIGAS O TROQUES\nREPARACION DE BOCINES O MASAS\nREPARACION DE CHASIS VEHICULOS CARGA PESADA\nFABRICACION DE VOLCOS\nADAPTACIONES DE BOTELLAS DE DIRECCION\nFABRICACION DE BARRAS DIRECCIONALES\nFABRICACION DE FRENOS O BLOQUEADORES PARA FAN CLUTH O TERMICO DE VENTILADOR\nCAMBIO DE OJOS EJES DELANTEROS\nCAMBIO DE PUNTAS A EJE TRASEROS\nADAPTACION DE SOPORTES MUELLES \nFABRICACION DE CARDANES PARA BOMBAS HIDRAULICAS DE LEVANTE VOLCOS\nREPARACION Y REFORZAMIENTO DE ESTRUCTURA VOLCO\nREPARACION DE COMANDOS CAMBIOS FORD CARGO 1721\nREPARACION DE BUJES Y PASADORES A BISAGRAS PUESTAS\nFABRICACION DE PUENTE GRUA\nRECORTAR EJES DELANTEROS\nREFORZAR CON PLATINA EJE TRASERO\nFABRICAR SOPORTE FAN CLUTH NEUMATICO\nALINEAR EN PRENSA HIDRAULICA CAMBER DE EJE DELANTERO\nALINEAR EN PRENSA HIDRAULICA CAMBER DE EJE TRAILER\nALINERAR EN PRENSA HIDRAULICA CAMBER DE EJE TRASEROS\nFABRICAR TAPAS DE VOLCOS\nFABRICAR SISTEMA SEGUROS A COMPUERTAS VOLCO\nFABRICAR CUBRE CABINAS A VOLCOS\nFABRICAR SISTEMA DE AUTO CARPADO VOLCOS MECANICO\nFABRICAR SISTEMA DE ELEVA COMPUERTA A VOLCO\nADAPTAR Y FABRICAR ROSCA PARA TROMPO TEMPERATURA SISTEMA FAN CLUHT NEUMATICO \nPERFORACIONES CON TALADRO DE BASE MAGNETICA\nFABRICACIO DE ROSCAS CON MACHUELOS Y VOLVEDOR\nREPARACION Y FABRICACION DE EJE CON ESTRIA Y ROSCA, BASES SOPORTES EJE CON BUJE DE NAYLON A SISTEMA LIMPIA VIDRIOS NISSAN MT 3000\nFABRICAION DE SISTEMA LEVANTE DE PORTA REPUESTO A CAMIONES EN PARTE FINAL CENTRO CHASIS \nADPATACION DE PORTA REPUESTO LATERAL A CHASIS VOLQUETAS\nREPARACION DE SUPERFICIES DE FIFERENCIALES\nCAMBIO DE RODILLOS SPICK TRANSMISIONES\nFABRICACION DE ROTOS CONICOS PARA TERMINALES EN BRAZOS DIRECCIONALES DE EJES DELANTEROS\nFABRICACION DE ADPATADORES DE CUADRANTES DE COPAS DE IMPACTO \nUSO DE LLAVES NEUMATICAS\nFABRICACION Y ENSAMBLE DE BOMBAS HIDRAULICAS ELECTICAS\nUSO DE BOMBA HIDRAULICA NEUMATICA \nUSO DE GATOS HIDRAULICOS PORTA POWER\nFABRICACION DE ROTOS CON BROCAS ESPECIALES CONICAS\nFABRICACION DE ESTANTERIA EN ANGULOS\nRESTAURAR DIAMETROS PUESTOS BUJES A LEVAS FRENO\nSOLDAR HOJAS DE RESORTE CON LA TECNICA DE TAINCO\nPERFORAR HOJAS DE RESORTE\nRECORTAR EN TRONZADORA HOJAS DE RESORTE\nREPARAR BARRAS DE CAMBIOS FULLLER\nCAMBIO PIÑONES TREN FIJO EN PRENSA HIDRAULICA \nRELLENAR PUESTO BALINERA PROPULSOR FORD CARGO 1721\nCAMBIO DE BUJES PUNTA Y CENTRALES SISTEMA SUSPENCION HENDRICKSON\nADAPTACION DE CAPSULAS CORBATIN A BUJES TRADICIONES HENDRICKSON\nREFORZAR Y REPARAR SILLINES PAQUETE DE MUELLES SISTEMA SUSPENCION HENDRICKSON\nCAMBIO DE BUJES A BARRAS TENSORAS SISTEMA SUSPENCION HENDRICKSON\nREPARACION DE TODO TIPO DE TERMINALES DIRECCIONALES VEHICULOS DE CARGA PESADA\nSOLDADURAS EN MATERIAL DE ALUMINIO CON ELECTRODO\nFABRICACION DE LLAVES PARA TUERCAS PUNTAS EJES TRASEROS \nADAPTACION EN CHASIS DE MOTORES DIESEL CON SOPORTERIA\nCAMBIO DE ESTRIAS CENTRO A YUGOS O YOKES CAJAS FULLER O DIFEERENCIALES\nCAMBIO DE YUGOS O YOKYS A CARDANES EN TORNO\nRECORTAR O LARGAR TUBOS DE CARDAN DE DIREFERENTES DIAMETROS EN TORNO\nADPATACION DE ANILLOS CARRIER TIPO 900 EATON EN EJE TRASEROS DE OTRAS MARCAS\n#borgwarner.   #international #dodge #ford @fordcargo #chevrolet #hino\n#foton #fuller #eaton #meritor #spicer"
+        },
+        "defaultAudioLanguage": "es"
+      },
+      "contentDetails": {
+        "duration": "PT53S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "4285377",
+        "likeCount": "25313",
+        "favoriteCount": "0",
+        "commentCount": "53"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Rhtn4AJQTNEvN91yY-GoBzmySlw",
+      "id": "G-VUDyWZAt8",
+      "snippet": {
+        "publishedAt": "2023-05-05T06:21:10Z",
+        "channelId": "UCIueALBHAyPPU7e7C2zVYRQ",
+        "title": "덤프트럭 기사의 하루 수입은",
+        "description": "직업의모든것 토크콘서트 \nhttps://youtu.be/gTlCn5wpHH0",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/G-VUDyWZAt8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/G-VUDyWZAt8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/G-VUDyWZAt8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/G-VUDyWZAt8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/G-VUDyWZAt8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "직업의모든것",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "덤프트럭 기사의 하루 수입은",
+          "description": "직업의모든것 토크콘서트 \nhttps://youtu.be/gTlCn5wpHH0"
+        },
+        "defaultAudioLanguage": "zxx"
+      },
+      "contentDetails": {
+        "duration": "PT49S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1042575",
+        "likeCount": "4227",
+        "favoriteCount": "0",
+        "commentCount": "330"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "NYzvqM5U3avzz3aBqNWKsB4EeD8",
+      "id": "xAFh7gmAp6Y",
+      "snippet": {
+        "publishedAt": "2023-05-08T08:36:16Z",
+        "channelId": "UC5roWTOx9mdZdxGZRDob_rw",
+        "title": "라이더에겐 일상인 상황",
+        "description": "#shorts #해야 #바이크\n\n시청해주셔서 감사합니다❣\n구독, 좋아요도 부탁드려요🥰  \n\n인스타그램 \n🍑 해야 계정 \nhttps://www.instagram.com/haeya_bike/\n\n바이크 가와사키 닌자 300 \n액션캠 소니 as300, 인스타360 one X 2\n다이소 마이크  \n\n🔥헬멧은 HJC\n🔥바이크 장비는 모토스테이션✨\nhttps://smartstore.naver.com/scoycokr",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xAFh7gmAp6Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xAFh7gmAp6Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xAFh7gmAp6Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xAFh7gmAp6Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xAFh7gmAp6Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "해야 HAEYA",
+        "tags": [
+          "동차선추월",
+          "추월",
+          "바이크",
+          "라이더",
+          "라이딩",
+          "바이크입문",
+          "해야",
+          "해야바이크",
+          "바이크해갸",
+          "바이크해야",
+          "종합경기장",
+          "경기장",
+          "전주",
+          "전주시",
+          "도로",
+          "도로위",
+          "전라북도",
+          "전북",
+          "전북전주",
+          "비빔밥",
+          "해야라이딩",
+          "전북대"
+        ],
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "라이더에겐 일상인 상황",
+          "description": "#shorts #해야 #바이크\n\n시청해주셔서 감사합니다❣\n구독, 좋아요도 부탁드려요🥰  \n\n인스타그램 \n🍑 해야 계정 \nhttps://www.instagram.com/haeya_bike/\n\n바이크 가와사키 닌자 300 \n액션캠 소니 as300, 인스타360 one X 2\n다이소 마이크  \n\n🔥헬멧은 HJC\n🔥바이크 장비는 모토스테이션✨\nhttps://smartstore.naver.com/scoycokr"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT32S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1316487",
+        "likeCount": "11913",
+        "favoriteCount": "0",
+        "commentCount": "1003"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "2mQqpJFRTeSWk8jUFKR1fxokNWg",
+      "id": "kVYFl_q7d94",
+      "snippet": {
+        "publishedAt": "2023-05-11T07:00:13Z",
+        "channelId": "UCzqaLRI5I7NuuMJUUzch9tQ",
+        "title": "여자가 주차하다가 차에서 내린 이유 #shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kVYFl_q7d94/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kVYFl_q7d94/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kVYFl_q7d94/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kVYFl_q7d94/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kVYFl_q7d94/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "숏블박 SHORT BBX",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "여자가 주차하다가 차에서 내린 이유 #shorts",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT21S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "302488",
+        "likeCount": "3202",
+        "favoriteCount": "0",
+        "commentCount": "1056"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "KTlpd8yghRDkzm1Q75ds4xBAE7c",
+      "id": "PT4OwqrINcQ",
+      "snippet": {
+        "publishedAt": "2023-05-16T23:00:16Z",
+        "channelId": "UCd5CdYxogKBwvv1xyuxhvZA",
+        "title": "제네시스 G80 페이스리프트!...G90보다 멋지다!",
+        "description": "0:00 시작\n0:08 진짜 스파이 아님?\n1:00 G80 페이스리프트, 이렇게 나온다!\n2:30 G80 전면 이렇게 바뀐다\n10:08 G80 후면 이렇게 바뀐다\n*  \n---\n구독해주세요 : https://bit.ly/2NCioiE\n김한용 hy.kim@mocar.kr",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PT4OwqrINcQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PT4OwqrINcQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PT4OwqrINcQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PT4OwqrINcQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PT4OwqrINcQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "김한용의 MOCAR",
+        "tags": [
+          "김한용",
+          "mocar",
+          "모카",
+          "시승기",
+          "자동차",
+          "국산차",
+          "수입차",
+          "현대차"
+        ],
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "제네시스 G80 페이스리프트!...G90보다 멋지다!",
+          "description": "0:00 시작\n0:08 진짜 스파이 아님?\n1:00 G80 페이스리프트, 이렇게 나온다!\n2:30 G80 전면 이렇게 바뀐다\n10:08 G80 후면 이렇게 바뀐다\n*  \n---\n구독해주세요 : https://bit.ly/2NCioiE\n김한용 hy.kim@mocar.kr"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT16M34S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "299033",
+        "likeCount": "2813",
+        "favoriteCount": "0",
+        "commentCount": "417"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "SyEDRroPRkZzhjfbAaX2VVIIi2k",
+      "id": "JkE1w1NFQ3I",
+      "snippet": {
+        "publishedAt": "2023-05-07T13:45:00Z",
+        "channelId": "UCKSVUHI9rbbkXhvAXK-2uxA",
+        "title": "Bulldozer Obliterates Old Sedan 😳",
+        "description": "Thanks to @JJScheckel! #supercarblondie #truck #bulldozer",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JkE1w1NFQ3I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JkE1w1NFQ3I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JkE1w1NFQ3I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JkE1w1NFQ3I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JkE1w1NFQ3I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Supercar Blondie",
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Bulldozer Obliterates Old Sedan 😳",
+          "description": "Thanks to @JJScheckel! #supercarblondie #truck #bulldozer"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT30S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "13884618",
+        "likeCount": "166027",
+        "favoriteCount": "0",
+        "commentCount": "1520"
+      }
+    }
+  ],
+  "nextPageToken": "CBkQAA",
+  "pageInfo": {
+    "totalResults": 200,
+    "resultsPerPage": 25
+  }
+}

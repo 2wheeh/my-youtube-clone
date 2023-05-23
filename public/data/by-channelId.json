@@ -1,0 +1,56 @@
+{
+  "kind": "youtube#channelListResponse",
+  "etag": "Xmt8W2MSZlPDWep7AxjxAHnTW_g",
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#channel",
+      "etag": "157DP1AbQEDIkZEEyM_Xbj8S99I",
+      "id": "UCUK4YjvUvHrFQwTFXwkUIng",
+      "snippet": {
+        "title": "뚜식이",
+        "description": "병맛 애니는 뚜식이와 함께하세요:)\n꿀잼 애니 많이 올리겠습니다.\n구독과 좋아요는 저에게 큰 힘이 됩니다:)\n\n비즈니스 문의 : ddusike@sandbox.co.kr",
+        "customUrl": "@ddusike",
+        "publishedAt": "2020-03-26T07:33:31.975858Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/d0XYVMBlWEn2cWTDsvjez8t5eeRpn8ZneAuuOb5Cj7tC4lUiXFUJz_mZ_GtQAjcpfTkfN4-A3Q=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/d0XYVMBlWEn2cWTDsvjez8t5eeRpn8ZneAuuOb5Cj7tC4lUiXFUJz_mZ_GtQAjcpfTkfN4-A3Q=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/d0XYVMBlWEn2cWTDsvjez8t5eeRpn8ZneAuuOb5Cj7tC4lUiXFUJz_mZ_GtQAjcpfTkfN4-A3Q=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "뚜식이",
+          "description": "병맛 애니는 뚜식이와 함께하세요:)\n꿀잼 애니 많이 올리겠습니다.\n구독과 좋아요는 저에게 큰 힘이 됩니다:)\n\n비즈니스 문의 : ddusike@sandbox.co.kr"
+        },
+        "country": "KR"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUUK4YjvUvHrFQwTFXwkUIng"
+        }
+      },
+      "statistics": {
+        "viewCount": "268738068",
+        "subscriberCount": "406000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "390"
+      }
+    }
+  ]
+}

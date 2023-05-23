@@ -4,13 +4,14 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import { RouterProvider, createBrowserRouter } from 'react-router-dom';
-import Videos from './pages/Videos';
+import Videos from './components/Videos';
 import Search from './pages/Search';
 import Watch from './pages/Watch';
 import ErrorBoundary from './pages/ErrorBoundary';
 import Channel from './pages/Channel';
 import ChannelSection from './pages/ChannelSection';
 import ChannelInfo from './pages/ChannelInfo';
+import Home from './pages/Home';
 
 const router = createBrowserRouter([
   {
@@ -19,7 +20,20 @@ const router = createBrowserRouter([
     errorElement: <ErrorBoundary />,
     // loader: rootLoader,
     children: [
-      { index: true, element: <Videos /> },
+      {
+        // index: true, // cannot specify children on an index route
+        path: '/',
+        element: <Home />,
+        children: [{ index: true, element: <Videos /> }],
+      },
+      {
+        path: '/home/',
+        element: <Home />,
+        children: [
+          { index: true, element: <Videos /> },
+          { path: '/home/:videoCategoryId', element: <Videos /> },
+        ],
+      },
       {
         path: '/channel/:channelId',
         element: <Channel />,
@@ -29,8 +43,6 @@ const router = createBrowserRouter([
           { path: '/channel/:channelId/info', element: <ChannelInfo /> },
         ],
       },
-      { path: '/videos/', element: <Videos /> },
-      { path: '/videos/:videoCategoryId', element: <Videos /> },
       { path: '/search/:keyword', element: <Search /> },
       { path: '/watch/:videoId', element: <Watch /> },
     ],
