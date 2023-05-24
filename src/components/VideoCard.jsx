@@ -1,4 +1,4 @@
-import React, { useRef, useState } from 'react';
+import React, { useEffect, useRef, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { BsDot } from 'react-icons/bs';
 import { useYoutubeApi } from '../context/YoutubeApiContext';
@@ -23,7 +23,7 @@ export default function VideoCard({ video }) {
   const [isReady, setIsReady] = useState(false);
   const [playedTime, setPlayedTime] = useState('00:00');
   const [timeStamp, setTimeStamp] = useState(0);
-  const [width, setWidth] = useState(320);
+  const [playerDim, setPlayerDim] = useState({ width: 360, height: 180 });
 
   const playerRef = useRef();
 
@@ -71,9 +71,21 @@ export default function VideoCard({ video }) {
 
   const handleResize = e => console.log(e);
 
-  window.addEventListener('resize', () => {
-    console.log(playerRef.current);
-  });
+  useEffect(() => {
+    playerRef.current &&
+      setPlayerDim({
+        width: playerRef.current.clientWidth,
+        height: playerRef.current.clientHeight,
+      });
+
+    // window.addEventListener('resize', () => {
+    //   playerRef.current &&
+    //     setPlayerDim({
+    //       width: playerRef.current.clientWidth,
+    //       height: playerRef.current.clientHeight,
+    //     });
+    // });
+  }, [playerRef.current]);
 
   if (isLoading || error) return <LoadingCard />;
 
@@ -85,15 +97,14 @@ export default function VideoCard({ video }) {
           onMouseEnter={startPlayingThumbnail}
           onMouseLeave={stopPlayingThumbnail}
         >
-          <div className="rounded-xl w-full  mb-4 aspect-video bg-loading">
-            <img
-              className="rounded-xl w-full  aspect-video"
-              onClick={handleClick}
-              src={thumbnailURL}
-              alt={title}
-              onResizeCapture={handleResize}
-            />
-          </div>
+          <img
+            ref={playerRef}
+            className="rounded-xl w-full  aspect-video"
+            onClick={handleClick}
+            src={thumbnailURL}
+            alt={title}
+            onResizeCapture={handleResize}
+          />
           <p className="absolute bottom-1 right-2.5 text-xs font-semibold px-1 py-0.5 bg-black rounded-md">
             {parsedDuration}
           </p>
@@ -101,11 +112,12 @@ export default function VideoCard({ video }) {
       )}
       {isHover && (
         <div
-          className={isReady ? 'relative cursor-pointer' : 'invisible w-0 h-0'}
+          className={
+            isReady ? 'w-full relative mb-4 aspect-video' : 'invisible w-0 h-0'
+          }
         >
           <ReactPlayer
-            ref={playerRef}
-            className="w-full mb-4"
+            className="w-full"
             onReady={handleOnReady}
             onProgress={handleProgress}
             onMouseLeave={stopPlayingThumbnail}
@@ -126,8 +138,8 @@ export default function VideoCard({ video }) {
             onPause={handleClick}
             muted={true}
             light={false}
-            width="320px"
-            height="180px"
+            width={`${playerDim.width}px`}
+            height={`${playerDim.height}px`}
             // width="100%"
             // height="100%"
           />
