@@ -10,6 +10,7 @@ import {
   formatPlayedTime,
 } from '../util/format';
 import ReactPlayer from 'react-player';
+import LoadingCard from './LoadingCard';
 
 export default function VideoCard({ video }) {
   const { id: videoId } = video;
@@ -28,6 +29,7 @@ export default function VideoCard({ video }) {
   const handleClick = () => {
     return navigate(`/watch/${videoId}`);
   };
+
   const handleClickChannel = e => {
     e.stopPropagation();
     return navigate(`/channel/${channelId}`, {
@@ -65,63 +67,38 @@ export default function VideoCard({ video }) {
 
   const handleOnReady = () => setIsReady(true);
 
-  if (isLoading || error)
-    return (
-      <li className="p-2">
-        <div className="relative">
-          <img
-            className="w-full rounded-xl mb-4"
-            src="/img/loading-thumbnail.png"
-            alt=""
-          />
-        </div>
-        <div className="flex flex-row">
-          <img
-            className="w-10 h-10 rounded-full "
-            src="/img/loading-thumbnail.png"
-            alt=""
-          />
-          <div className="ml-2 w-full">
-            <img
-              className="mb-2 w-11/12 h-5 rounded-md"
-              src="/img/loading-thumbnail.png"
-              alt=""
-            />
-            <img
-              className="mb-2 w-9/12 h-5 rounded-md"
-              src="/img/loading-thumbnail.png"
-              alt=""
-            />
-          </div>
-        </div>
-      </li>
-    );
+  const handleResize = e => console.log(e);
+
+  if (isLoading || error) return <LoadingCard />;
 
   return (
     <li className="p-2">
       {!isReady && (
         <div
-          className="relative cursor-pointer"
+          className="w-full relative mb-4 aspect-video rounded-xl bg-loading cursor-pointer"
           onMouseEnter={startPlayingThumbnail}
           onMouseLeave={stopPlayingThumbnail}
         >
           <img
-            className="w-full rounded-xl mb-4"
+            className="rounded-xl w-full  aspect-video"
             onClick={handleClick}
             src={thumbnailURL}
             alt={title}
+            onResizeCapture={handleResize}
           />
-          <p className="absolute bottom-1 right-1.5 text-xs font-semibold px-1 py-0.5 bg-black rounded-md">
+          <p className="absolute bottom-1 right-2.5 text-xs font-semibold px-1 py-0.5 bg-black rounded-md">
             {parsedDuration}
           </p>
         </div>
       )}
       {isHover && (
         <div
-          className={isReady ? 'relative cursor-pointer' : 'invisible w-0 h-0'}
+          className={
+            isReady ? 'w-full relative mb-4 aspect-video' : 'invisible w-0 h-0'
+          }
         >
           <ReactPlayer
-            className="w-full mb-4"
+            className="w-full"
             onReady={handleOnReady}
             onProgress={handleProgress}
             onMouseLeave={stopPlayingThumbnail}
@@ -142,12 +119,9 @@ export default function VideoCard({ video }) {
             onPause={handleClick}
             muted={true}
             light={false}
-            width="320px"
-            height="180px"
-            // width="100%"
-            // height="100%"
+            width="100%"
+            height="100%"
           />
-
           <p className="absolute bottom-1 left-1.5 text-xs font-semibold">
             {playedTime} / {parsedDuration}
           </p>

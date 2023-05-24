@@ -5,7 +5,15 @@ module.exports = {
     extend: {
       colors: {
         brand: '#FF0000',
+        loading: '#3F3F3F',
       },
+
+      height: {
+        mid: '11.25rem',
+      },
+      // backgroundImage: {
+      //   'loading-thumbnail': "url('/img/loading-thumbnail.png')",
+      // },
     },
   },
   plugins: [],

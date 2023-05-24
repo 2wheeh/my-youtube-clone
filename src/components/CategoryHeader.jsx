@@ -15,7 +15,7 @@ export default function CategoryHeader() {
     { staleTime: 1000 * 60 * 5 } // 5 min
   );
 
-  if (isLoading) return <p>isLoading</p>;
+  if (isLoading) return <nav className="pt-2 pb-8 w-120"></nav>;
 
   if (error) return <p>error</p>;
 
@@ -35,5 +35,4 @@ export default function CategoryHeader() {
       ))}
     </nav>
   );
-
 }
