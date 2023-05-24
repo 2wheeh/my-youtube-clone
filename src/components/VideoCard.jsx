@@ -72,6 +72,22 @@ export default function VideoCard({ video }) {
 
   const handleResize = e => console.log(e);
 
+  useEffect(() => {
+    playerRef.current &&
+      setPlayerDim({
+        width: playerRef.current.clientWidth,
+        height: playerRef.current.clientHeight,
+      });
+
+    // window.addEventListener('resize', () => {
+    //   playerRef.current &&
+    //     setPlayerDim({
+    //       width: playerRef.current.clientWidth,
+    //       height: playerRef.current.clientHeight,
+    //     });
+    // });
+  }, [playerRef.current]);
+
   if (isLoading || error) return <LoadingCard />;
 
   return (
