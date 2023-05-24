@@ -1,4 +1,4 @@
-import React, { useEffect, useRef, useState } from 'react';
+import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { BsDot } from 'react-icons/bs';
 import { useYoutubeApi } from '../context/YoutubeApiContext';
@@ -23,9 +23,6 @@ export default function VideoCard({ video }) {
   const [isReady, setIsReady] = useState(false);
   const [playedTime, setPlayedTime] = useState('00:00');
   const [timeStamp, setTimeStamp] = useState(0);
-  const [playerDim, setPlayerDim] = useState({ width: 360, height: 180 });
-
-  const playerRef = useRef();
 
   const navigate = useNavigate();
 
@@ -71,22 +68,6 @@ export default function VideoCard({ video }) {
   const handleOnReady = () => setIsReady(true);
 
   const handleResize = e => console.log(e);
-
-  useEffect(() => {
-    playerRef.current &&
-      setPlayerDim({
-        width: playerRef.current.clientWidth,
-        height: playerRef.current.clientHeight,
-      });
-
-    // window.addEventListener('resize', () => {
-    //   playerRef.current &&
-    //     setPlayerDim({
-    //       width: playerRef.current.clientWidth,
-    //       height: playerRef.current.clientHeight,
-    //     });
-    // });
-  }, [playerRef.current]);
 
   if (isLoading || error) return <LoadingCard />;
 
