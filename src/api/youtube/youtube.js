@@ -37,6 +37,6 @@ export default class Youtube {
 
     return this.apiClient //
       .channels({ params })
-      .then(res => res.data.items);
+      .then(res => res.data.items[0]);
   }
 }

@@ -27,14 +27,17 @@ export default function VideoCard({ video }) {
   const navigate = useNavigate();
 
   const handleClick = () => {
-    return navigate(`/watch/${videoId}`);
+    return navigate(`/watch/${videoId}`, {
+      state: {
+        video,
+        start: timeStamp,
+      },
+    });
   };
 
   const handleClickChannel = e => {
     e.stopPropagation();
-    return navigate(`/channel/${channelId}`, {
-      state: { video, start: timeStamp },
-    });
+    return navigate(`/channel/${channelId}`);
   };
 
   const { youtube } = useYoutubeApi();
@@ -67,15 +70,13 @@ export default function VideoCard({ video }) {
 
   const handleOnReady = () => setIsReady(true);
 
-  const handleResize = e => console.log(e);
-
   if (isLoading || error) return <LoadingCard />;
 
   return (
     <li className="p-2">
       {!isReady && (
         <div
-          className="w-full relative mb-4 aspect-video rounded-xl bg-loading cursor-pointer"
+          className="w-full relative mb-4 aspect-video rounded-xl bg-ytgray cursor-pointer"
           onMouseEnter={startPlayingThumbnail}
           onMouseLeave={stopPlayingThumbnail}
         >
@@ -84,7 +85,6 @@ export default function VideoCard({ video }) {
             onClick={handleClick}
             src={thumbnailURL}
             alt={title}
-            onResizeCapture={handleResize}
           />
           <p className="absolute bottom-1 right-2.5 text-xs font-semibold px-1 py-0.5 bg-black rounded-md">
             {parsedDuration}
@@ -132,7 +132,7 @@ export default function VideoCard({ video }) {
         <img
           className="w-10 h-10 rounded-full "
           onClick={handleClickChannel}
-          src={channel[0].snippet.thumbnails.default.url}
+          src={channel.snippet.thumbnails.default.url}
           alt={channelTitle}
         />
         <div className="ml-2">

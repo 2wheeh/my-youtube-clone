@@ -5,7 +5,7 @@ module.exports = {
     extend: {
       colors: {
         brand: '#FF0000',
-        loading: '#3F3F3F',
+        ytgray: '#3F3F3F',
       },
 
       height: {
