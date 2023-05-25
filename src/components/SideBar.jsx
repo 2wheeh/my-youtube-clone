@@ -3,9 +3,11 @@ import { Link } from 'react-router-dom';
 import { AiFillHome } from 'react-icons/ai';
 import { MdSubscriptions } from 'react-icons/md';
 
-export default function SideBar() {
+export default function SideBar({ hide }) {
+  if (hide) return <></>;
+
   return (
-    <aside className="flex flex-col w-0 invisible sm:w-12 sm:visible sm:mx-4">
+    <aside className={`flex flex-col w-0 invisible sm:w-12 sm:visible sm:mx-4`}>
       <Link className="my-3" to="/">
         <AiFillHome className="text-2xl w-12" />
         <p className="ml-4">홈</p>
