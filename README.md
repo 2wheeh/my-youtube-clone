@@ -1,5 +1,4 @@
 # Let's Clone Youtube in React
-### will be completed by the end of May 
 
 ### Currently
 __play thumbnail on hover__
