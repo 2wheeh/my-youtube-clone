@@ -23,11 +23,12 @@ export default function VideoCard({ video }) {
   const [isReady, setIsReady] = useState(false);
   const [playedTime, setPlayedTime] = useState('00:00');
   const [timeStamp, setTimeStamp] = useState(0);
-
   const navigate = useNavigate();
 
-  const handleClick = () => {
-    return navigate(`/watch/${videoId}`);
+  const handleClick = (item) => {
+    document.startViewTransition(() => {
+      return navigate(`/watch/${videoId}`, {state: {thumbnailURL: thumbnailURL}});
+    });
   };
 
   const handleClickChannel = e => {
